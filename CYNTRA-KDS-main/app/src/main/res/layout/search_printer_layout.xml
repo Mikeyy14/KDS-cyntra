@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:layout_weight="1.7"
+                
+                android:text="@string/select_printer"
+                android:textColor="@color/app_color"
+                android:textSize="@dimen/_15sdp"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/btn_cancel"
+                android:layout_width="0dp"
+                android:layout_weight=".3"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp5"
+                android:src="@drawable/icon_close" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/app_color" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp30"
+        android:layout_marginTop="@dimen/dp10"
+        android:layout_marginRight="@dimen/dp30"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <ListView
+            android:id="@+id/dialoglist"
+            android:background="@color/category_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginLeft="@dimen/dp30"
+        android:layout_marginTop="@dimen/dp30"
+        android:layout_marginRight="@dimen/dp30"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+        <LinearLayout
+            android:id="@+id/btn_confirm"
+            android:layout_width="@dimen/dp170"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp10"
+            android:layout_marginRight="@dimen/dp10"
+            android:gravity="center"
+            android:visibility="visible"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                
+                android:layout_marginTop="@dimen/dp5"
+                android:layout_marginBottom="@dimen/dp5"
+                android:layout_marginRight="@dimen/dp10"
+                android:gravity="center"
+                android:textColor="@color/colorWhite"
+                android:background="@color/app_color"
+                android:text="@string/submit"
+                android:textSize="@dimen/_15sdp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="@dimen/dp1"
+                android:background="@color/app_color"
+                android:gravity="center" />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:layout_marginRight="@dimen/_50sdp"
+            android:layout_weight="1"
+            android:background="@color/app_color"
+            android:padding="15dp"
+            android:text="@string/confirm"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_15sdp"
+            android:visibility="gone"
+
+            />
+
+        <Button
+            android:id="@+id/btn_confirm1"
+            android:layout_width="@dimen/dp170"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:layout_marginRight="@dimen/_50sdp"
+            android:text="@string/submit"
+            android:textAllCaps="false"
+            android:visibility="gone"
+            android:textSize="@dimen/_16sdp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

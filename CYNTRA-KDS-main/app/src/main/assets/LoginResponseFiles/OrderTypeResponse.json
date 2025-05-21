@@ -1,0 +1,21 @@
+{
+  "count": 4,
+  "results": [
+    {
+      "id": 1,
+      "name": "Dine-in"
+    },
+    {
+      "id": 2,
+      "name": "Delivery"
+    },
+    {
+      "id": 3,
+      "name": "Pickup"
+    },
+    {
+      "id": 4,
+      "name": "Drive-through"
+    }
+  ]
+}

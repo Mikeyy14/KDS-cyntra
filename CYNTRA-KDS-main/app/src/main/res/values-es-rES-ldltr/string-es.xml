@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BridgeVoice</string>
+    <string name="register_to_earn">Regístrate y gana grandes recompensas!</string>
+    <string name="cashier_login">Inicio de sesión de cajera</string>
+    <string name="sign_in_to_earn">Inicia sesión y gana grandes recompensas!</string>
+    <string name="cashier_id">ID de cajero</string>
+    <string name="please_enter_cashier_id">Por favor ingrese ID de cajero</string>
+    <string name="please_enter_password">Por favor, ingrese contraseña</string>
+    <string name="please_enter_customer_name">Por favor ingrese el nombre del cliente</string>
+    <string name="please_enter_customer_mobile">Por favor ingrese número de cliente</string>
+    <string name="please_enter_valid_number">Por favor ingrese un número válido</string>
+    <string name="enter_cashier_req">Ingresa tu ID de cajero</string>
+    <string name="password">Contraseña</string>
+    <string name="enter_cashier_password">Ingresa la contraseña</string>
+    <string name="empty_cart">Carro vacio</string>
+    <string name="proceed">Continuar</string>
+    <string name="register">Registrarse</string>
+    <string name="skip">Omitir</string>
+    <string name="touchtostart">Toca para comenzar</string>
+    <string name="your_cart">Tu carrito</string>
+    <string name="kcal">439 calorías  /</string>
+    <string name="protein">28.9g proteína  /</string>
+    <string name="_1">1</string>
+    <string name="english">Inglesa</string>
+    <string name="ok">DE ACUERDO</string>
+    <string name="please_enter_your_mobile_no">Por favor, introduzca su número de teléfono</string>
+    <string name="carbs">83.5g carbohidratos  /</string>
+    <string name="fat">83.5g grasa</string>
+    <string name="where_would_you_like_to_eat">Dónde te gustaría comer</string>
+    <string name="hello_breez">Para comenzar \n di <b>"Hola Breez"</b></string>
+    <string name="order_total">Total del pedido</string>
+    <string name="_12_43">$12.43</string>
+    <string name="rodeo_burger">Hamburguesa Rodeo</string>
+    <string name="no_lettuce_no_tomato">Sin lechuga ni tomate</string>
+    <string name="all_categories">Todas las categorías</string>
+    <string name="category">Categoría</string>
+    <string name="payment_failed">Pago fallido</string>
+    <string name="sorry_inconvenience">Lo sentimos por las molestias</string>
+    <string name="your_payment_has_failed_due_to_some_technical_error_please_try_again">Su pago ha fallado debido a un error técnico. Por favor, inténtelo de nuevo</string>
+    <string name="retry_payment">Reintentar el pago</string>
+    <string name="scan_qr_description">Coloque la pantalla de su móvil frente al escáner\npara iniciar sesión.</string>
+    <string name="user_not_found_description">No pudimos encontrar su perfil. Puede registrarse o saltar el inicio de sesión.</string>
+    <string name="inconveninece_description">No podemos procesar su comando en este momento. Puede avanzar manualmente tocando la pantalla.</string>
+    <string name="frequently_bought_together">Frecuentemente comprados juntos</string>
+    <string name="chocolate_shake">Batido de chocolate</string>
+    <string name="go_to_menu">Ir al menú</string>
+    <string name="pay_now">Pagar ahora</string>
+    <string name="explore_our_menu">¡Explora nuestro menú!</string>
+    <string name="item_name">Nombre del artículo</string>
+    <string name="start_over">Comenzar de nuevo</string>
+    <string name="item_description">Nuestra mejor hamburguesa incluye un crujiente filete, cebolla fresca y nuestra salsa especial.</string>
+    <string name="make_it_meal_item">Coca, papas fritas y hamburguesa con queso</string>
+
+    <string name="_9999999999">9999999999</string>
+    <string name="please_insert_or_tap_your_card">Por favor inserte o toque su tarjeta</string>
+
+    <string name="Choose_from_the_option_given_below">Elija entre la opción dada a continuación. Di \'SALIR\'</string>
+    <string name="Select_Your_Meal">Selecciona tu comida \'Di: Añadir hamburguesa\' </string>
+    <string name="Build_your_burger">Arma tu hamburguesa \'Di Agrega Tomate\'</string>
+    <string name="Are_you_ready_to_checkout">¿Estás listo para pagar? Di \'Quiero pagar\'</string>
+
+
+
+
+
+    <string name="thank_you">¡Gracias!</string>
+    <string name="thank_you_descriptioon">Por favor, recoge tu recibo y recoge tu pedido en el mostrador</string>
+    <string name="your_orderno">Tu número de pedido es</string>
+    <string name="done">Hecho</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="enter_your_name">Introduce tu nombre</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="scan_qr_code">Escanea el código QR</string>
+    <string name="enter_your_phone_number">Introduce tu número de teléfono</string>
+    <string name="okay">Está bien</string>
+    <string name="user_not_found">¡Usuario no encontrado!</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="_2_43">$2.43</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Método de pago</string>
+    <string name="cash">Efectivo</string>
+    <string name="tax">Impuesto</string>
+    <string name="voice_description">Intenta decir "Ver categoría" o "Añadir hamburguesa Rodeo"…</string>
+    <string name="please_insert_or_tap_your_credit_card">Por favor, inserta o toca tu tarjeta de crédito</string>
+    <string name="sanjeev_varshney">Sanjeev Varshney</string>
+    <string name="loyalty_points">Puntos de lealtad:</string>
+    <string name="_2_000">2,000</string>
+    <string name="recent_orders">Pedidos recientes</string>
+    <string name="add">Añadir</string>
+    <string name="checkout">Pagar</string>
+    <string name="sauce">Salsa</string>
+    <string name="lettuce">Lechuga</string>
+    <string name="bacon">Bacon</string>
+    <string name="tomato">Tomate</string>
+    <string name="cheese">Queso</string>
+    <string name="patty">Hamburguesa</string>
+
+
+
+
+
+    <string name="hello_blank_fragment">Hola, fragmento en blanco</string>
+    <string name="fragment_one">Fragmento uno</string>
+    <string name="fragment_two">Fragmento dos</string>
+    <string name="fragment_three">Fragmento tres</string>
+    <string name="fragment_four">Fragmento cuatro</string>
+    <string name="fragment_five">Fragmento cinco</string>
+    <string name="something_went_wrong">Algo salió mal</string>
+    <string name="view_categories">Ver categorías</string>
+    <string name="mic_permission_title">¡Permiso de micrófono requerido!</string>
+    <string name="mic_permission_required">Para iniciar esta aplicación, por favor concede permisos para el micrófono y el almacenamiento.</string>
+    <string name="open_setting">Abrir configuración</string>
+    <string name="cancel">Cancelar</string>
+    <string name="item_total">Total de artículos</string>
+    <string name="_10_49">$10.49</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="_101">101</string>
+    <string name="size">Tamaño</string>
+    <string name="small">Pequeño</string>
+    <string name="spice">Especia</string>
+    <string name="add_to_cart">Agregar al carrito</string>
+    <string name="medium">Mediano</string>
+    <string name="large">Grande</string>
+    <string name="mild">Suave</string>
+    <string name="hot">Picante</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="make_it_a_meal">Hacerlo una comida</string>
+    <string name="select">Seleccionar</string>
+
+
+
+    <string name="store_idd">ID de la tienda</string>
+    <string name="device_configuration">Configuración del dispositivo</string>
+    <string name="pos_Id">ID de POS</string>
+    <string name="company_id">ID de la compañía</string>
+    <string name="reset">Restablecer</string>
+    <string name="select_your_items">Seleccione sus artículos</string>
+    <string name="calling_assistant">Asistente de llamadas</string>
+    <string name="wait_for_a_moment_our_staff_is_coming_to_assist_you">Espere un momento, nuestro personal viene a ayudarlo</string>
+
+    <string name="cancel_order">Cancelar pedido</string>
+    <string name="profile_not_found">¡Perfil no encontrado!</string>
+    <string name="no_recent_orders_found">¡No se encontraron pedidos recientes!</string>
+    <string name="invoice_receipt">Recibo de la factura</string>
+    <string name="sms">SMS</string>
+    <string name="print">Imprimir</string>
+    <string name="continue_as_guest">Continuar como invitado</string>
+    <string name="add_last_meal">Tu artículo ha sido añadido, ¿te gustaría proceder a la salida o añadir más artículos?</string>
+
+    <string name="meal_already_added">Su artículo ya está agregado, ¿le gustaría pagar o agregar más artículos?</string>
+
+    <string name="remove_item_from_cart">¿Seguro que quieres quitar este artículo?</string>
+    <string name="increase_quan">La cantidad del artículo ha aumentado</string>
+    <string name="decrease_quan">La cantidad del artículo ha disminuido</string>
+    <string name="clear_cart_description">¿Seguro que quieres borrar todos los artículos?</string>
+    <string name="add_addons"> añadido</string>
+    <string name="remove_addons"> removido</string>
+    <string name="clear_cart">Vaciar carrito</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="remove_item">Eliminar artículo</string>
+
+    <string name="printer_settings">Configuración de la impresora</string>
+    <string name="_1_kiosk_printer">1. Impresora de quiosco</string>
+    <string name="_1_kitchen_printer">1. Impresora de cocina</string>
+    <string name="_1_1_1_1">1.1.1.1</string>
+    <string name="test">Prueba</string>
+    <string name="apply">Aplicar</string>
+
+    <string name="payment_settings">Configuración de pago</string>
+    <string name="voice_ordering">Pedidos por voz</string>
+    <string name="end_session">Finalizar sesión</string>
+    <string name="settings">Ajustes</string>
+
+
+    <string name="voice_enabled">¡La voz ha sido habilitada!</string>
+    <string name="voice_disabled">Voice has been disabled</string>
+
+    <string name="discover_our_menu">Descubre nuestro menú</string>
+    <string name="start_new_order">Iniciar nuevo pedido</string>
+    <string name="scan_qr_for_digital_receipt">Escanear QR para recibo digital</string>
+    <string name="listening">escuchando…</string>
+    <string name="didn_t_find_what_you_re_lookig_for">No encontraste lo que buscas?</string>
+    <string name="search_for_dishes_and_items">Buscar platos &amp; elementos</string>
+    <string name="search">Buscar</string>
+    <string name="help_description_technical_error">Estos íconos indican que el micrófono está\ndishabilitado o hay un error técnico</string>
+
+    <string name="best_sellers">Las más vendidas</string>
+    <string name="need_help">¿Necesitas ayuda?</string>
+    <string name="speak_when_the_icon_turns_red">Habla cuando el ícono se vuelva rojo</string>
+    <string name="welcome_back">Bienvenido de nuevo</string>
+
+    <string name="select_your_category">Seleccione su categoría</string>
+
+    <string name="dine_in">Cenar en</string>
+    <string name="take_out">llevar</string>
+
+    <string name="amount">CANTIDAD</string>
+
+    <string name="check_for_update">Buscar actualizaciones</string>
+    <string name="checking_for_update">Comprobación de actualización</string>
+    <string name="collect_card_payment">Cobrar pago con tarjeta</string>
+    <string name="collect_payment">cobrar el pago</string>
+    <string name="collect_payment_description">Recoja un pago con tarjeta usando una tarjeta de prueba de Stripe física y un lector de tarjetas</string>
+    <string name="common_workflows">FLUJOS DE TRABAJO COMUNES</string>
+    <string name="connecting">Conectando…</string>
+    <string name="currency">DIVISA</string>
+    <string name="current_version">VERSIÓN ACTUAL</string>
+    <string name="default_amount_int">100</string>
+    <string name="default_amount_string">$1.00</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="discovery">Descubrimiento</string>
+    <string name="discover_readers">Descubre lectoras</string>
+    <string name="discovery_method">MÉTODO DE DESCUBRIMIENTO</string>
+    <string name="empty_reader">Lector vacía</string>
+    <string name="event_log">REGISTRO DE EVENTOS</string>
+    <string name="install_explanation">Versión %1$s disponible. El lector dejará de responder hasta que se complete la actualización. Tiempo estimado de actualización: %2$s.</string>
+    <string name="install_update">Instalar actualización</string>
+    <string name="installation_in_progress">El lector dejará de responder temporalmente. No abandone esta página y mantenga el lector dentro del alcance y encendido hasta que se complete la actualización.</string>
+    <string name="nearby_readers">LECTORES CERCANOS</string>
+    <string name="no_reader">No hay lectora conectada</string>
+    <string name="no_update_available">Actualización no disponible</string>
+    <string name="read_card_for_recurring_payment">Leer tarjeta para pago recurrente</string>
+    <string name="reader">Lectora</string>
+    <string name="reader_connection">CONEXIÓN DEL LECTOR</string>
+    <string name="reader_description">%1$s %2$s</string>
+    <string name="simulated">Simulada</string>
+    <string name="simulation_explanation">El SDK viene con la capacidad de simular el comportamiento sin usar hardware físico. Esto facilita probar rápidamente su integración de principio a fin, desde conectar un lector hasta recibir pagos.</string>
+    <string name="terminal">Terminal</string>
+    <string name="testing">Pruebas</string>
+    <string name="update_complete">Actualizacion completa</string>
+    <string name="update_explanation">Compruebe si hay disponible una actualización de software del lector.</string>
+    <string name="update_in_progress">Actualización en progreso</string>
+    <string name="update_progress">Progreso de la actualización: %1$.1f%%</string>
+    <string name="update_reader">Actualizar lector</string>
+    <string name="update_reader_software">Actualizar el software del lector</string>
+    <string name="usd">Dólar estadounidense</string>
+    <string name="locations">Ubicaciones</string>
+    <string name="select_location">Seleccionar ubicación</string>
+    <string name="select_location_last">Última ubicación utilizada</string>
+    <string name="select_location_list_title">%s ubicaciones encontradas</string>
+    <string name="select_location_list_title_more">%s+ ubicaciones encontradas</string>
+    <string name="discovery_location_caption">Los lectores Bluetooth deben estar registrados en una ubicación durante el proceso de conexión. Si no selecciona una ubicación, el lector intentará registrarse en la misma ubicación en la que se registró durante la conexión anterior.</string>
+    <string name="discovery_reader_unknown">Lector desconocida</string>
+    <string name="discovery_reader_location_last">Se registrará en la última ubicación: %s</string>
+    <string name="discovery_reader_location">Se registrará en la ubicación: %s</string>
+    <string name="discovery_reader_location_unavailable">❗️ No hay última ubicación, seleccione una primero</string>
+    <string name="location_required_dialog_title">Selecciona una ubicación</string>
+    <string name="location_required_dialog_message">Este lector no tiene una ubicación previamente registrada. Seleccione una ubicación para registrarlo.</string>
+    <string name="alert_acknowledge_button">Bueno</string>
+    <string name="create">Crear</string>
+    <string name="location_create_title">Crear ubicación</string>
+    <string name="location_create_display_name_title">Nombre para mostrar</string>
+    <string name="location_create_display_name_hint">sede</string>
+    <string name="location_create_address_title">DIRECCIÓN</string>
+    <string name="location_create_address_line1_label">Línea 1</string>
+    <string name="location_create_address_line1_hint">510 Townsend St</string>
+    <string name="location_create_address_line2_label">Línea 2</string>
+    <string name="location_create_address_city_label">Ciudad</string>
+    <string name="location_create_address_city_hint">San Francisco</string>
+    <string name="location_create_address_state_label">Estado</string>
+    <string name="location_create_address_state_hint">CA</string>
+    <string name="location_create_address_country_label">País</string>
+    <string name="location_create_address_country_hint">US</string>
+    <string name="location_create_address_postal_label">Código Postal</string>
+    <string name="location_create_address_postal_hint">94103</string>
+    <string name="location_create_submit">Crear ubicación</string>
+    <string name="field_required">Este campo es obligatorio.</string>
+    <string name="skip_tipping">Saltar propinas</string>
+    <string name="tipping">PROPINAS</string>
+    <string name="skip_tipping_description">Debe tener propinas en el lector configuradas para tener algún efecto.</string>
+
+    <string name="request_extended_auth">Solicitar autenticación extendida</string>
+    <string name="request_incremental_auth">Solicitar autenticación incremental</string>
+    <string name="loyality_points_2000">Puntos de fidelidad: 2000</string>
+    <string name="say_your_number">Di tu número</string>
+
+    <string name="confirm">Confirmar</string>
+    <string name="submit">Entregar</string>
+    <string name="select_printer">Seleccionar impresora</string>
+    <string name="help_description_error">Este ícono indica que el\nmicrófono está deshabilitado.</string>
+
+    <string name="_0_00">$0.00</string>
+    <string name="save">Ahorrar</string>
+    <string name="session_in">sesión en</string>
+    <string name="delivery">Entrega</string>
+    <string name="options">Opciones</string>
+    <string name="log_file_upload">Enviar informe de dispositivo</string>
+
+    <string name="are_you_sure_you_want_to_end_session">¿Estás segura de que quieres terminar la sesión?</string>
+    <string name="network_issue">Problema de red</string>
+    <string name="check_internet_message">Volveremos a estar en línea en breve.\n ¡Gracias por su paciencia!</string>
+    <string name="error_details">Ocurrió un error inesperado que obligó a detener la aplicación. Inténtalo de nuevo.</string>
+    <string name="refresh">Actualizar</string>
+    <string name="app_has_crashed">La aplicación se ha bloqueado.</string>
+    <string name="www_cyntra_ai">Desarrollado por Cyntra.ai</string>
+    <string name="restart">Reanudar</string>
+    <string name="filters">filtros</string>
+    <string name="stickers">Pegatinas</string>
+    <string name="frame">Marco</string>
+    <string name="text">Texto</string>
+    <string name="share">Compartir</string>
+    <string name="share_your_picture">Hacer una memoria</string>
+    <string name="help">Ayuda</string>
+    <string name="mute">Muda</string>
+    <string name="speaking">discurso…</string>
+
+    <!--    speech templates-->
+    <string name="orderTypeScreen" translatable="false">Hello, Welcome to Breez, please say your order preference, Try saying ‘Dine In‘ or ‘Take Away‘</string>
+    <string name="signInScreen" translatable="false">Please say your contact number to sign-in, or try saying, ‘Guest‘ to proceed as a guest</string>
+    <string name="welcome" translatable="false">Welcome back %1$s would you like to repeat your last order or proceed to menu?"</string>
+    <string name="alreadyReorderItems" translatable="false">Your items are already added, would you like to checkout or add more items from the menu?</string>
+    <string name="alreadyAddedItems" translatable="false">Your item is already added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorder" translatable="false">Your items are added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorderItem" translatable="false">Your item is added, would you like to checkout or add more items from the menu?</string>
+    <string name="menuScreen" translatable="false">Explore our menu and add the items of your choice, try saying, ‘Select Sides’, ‘Add Chicken Burger’</string>
+    <string name="homeScreen" translatable="false">Select a category or choose from our bestsellers, try saying, ‘Select Burgers’, ‘Add Coke’</string>
+    <string name="addonOnScreenForBurger" translatable="false">How would you like to customize your selected item? Try saying, ‘Add Cheese’</string>
+    <string name="addonOnScreenForOtherItems" translatable="false">How would you like to customize your selected item? Try saying, ‘Increase quantity‘</string>
+    <string name="addonsScreenWithModifierSize" translatable="false">‘Size Medium’</string>
+    <string name="addonsScreenWithModifiersSpice" translatable="false">‘Spice Hot’</string>
+    <string name="selectMoreItem" translatable="false">Would you like to checkout or add more items?</string>
+    <string name = "user_registration_screen" translatable="false">Kindly enter your details</string>
+
+    <plurals name="cart_screen" translatable="false">
+        <item quantity="one">You have %1$d item in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+        <item quantity="other">You have %1$d items in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+    </plurals>
+    <string name="paymentScreen_a" translatable="false">Your total amount is $ %1$s insert or tap your card to complete the order</string>
+    <string name="thankyou_a" translatable="false">Thank you. Your order number is %1$s.Please collect your order from the counter.</string>
+    <string name="userRegistration" translatable="false">Kindly enter your details</string>
+
+
+</resources>

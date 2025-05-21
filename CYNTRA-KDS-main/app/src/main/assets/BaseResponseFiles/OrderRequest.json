@@ -1,0 +1,41 @@
+{
+  "vals_list": [
+    {
+      "amount_paid": 1.59,
+      "amount_return": 0.0,
+      "amount_tax": 0.09,
+      "amount_total": 1.59,
+      "customer_count": 1,
+      "lines": [
+        {
+          "customer_note": "",
+          "discount": 0.0,
+          "full_product_name": "Pepsi(Medium)",
+          "price_subtotal": 1.5,
+          "price_subtotal_incl": 1.59375,
+          "price_unit": 1.5,
+          "product_id": 125,
+          "qty": 1.0
+        }
+      ],
+      "note": "",
+      "order_type_id": 2,
+      "partner_id": 54,
+      "payment_ids": [
+        {
+          "amount": 1.59,
+          "card_type": "",
+          "name": "Credit Card",
+          "payment_method_id": 8,
+          "payment_status": "",
+          "ticket": "",
+          "transaction_id": ""
+        }
+      ],
+      "pos_reference": "340-11-000111",
+      "session_id": 340,
+      "state": "draft",
+      "to_invoice": "true"
+    }
+  ]
+}

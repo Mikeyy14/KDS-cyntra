@@ -1,0 +1,18 @@
+{
+  "count": 1,
+  "results": [
+    {
+      "id": 174,
+      "name": "Rajnish Raj",
+      "customer_rank": 1,
+      "phone": "9999999991",
+      "email": null,
+      "street": null,
+      "street2": null,
+      "city": null,
+      "state_id": [],
+      "zip": null,
+      "country_id": []
+    }
+  ]
+}

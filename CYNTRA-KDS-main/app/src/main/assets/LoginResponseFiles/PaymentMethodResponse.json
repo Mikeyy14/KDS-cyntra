@@ -1,0 +1,47 @@
+{
+  "count": 7,
+  "results": [
+    {
+      "company_id": 1,
+      "id": 1,
+      "name": "Cash",
+      "selected": false
+    },
+    {
+      "company_id": 1,
+      "id": 4,
+      "name": "Credit Card",
+      "selected": false
+    },
+    {
+      "company_id": 2,
+      "id": 7,
+      "name": "Cash",
+      "selected": false
+    },
+    {
+      "company_id": 2,
+      "id": 8,
+      "name": "Credit Card",
+      "selected": false
+    },
+    {
+      "company_id": 38,
+      "id": 12,
+      "name": "Cash",
+      "selected": false
+    },
+    {
+      "company_id": 38,
+      "id": 13,
+      "name": "Bank",
+      "selected": false
+    },
+    {
+      "company_id": 38,
+      "id": 14,
+      "name": "Customer Account",
+      "selected": false
+    }
+  ]
+}

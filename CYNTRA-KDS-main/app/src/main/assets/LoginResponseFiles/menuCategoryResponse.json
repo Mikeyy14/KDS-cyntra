@@ -1,0 +1,76 @@
+{"count": 8,
+"results": [
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "All Time Favorites",
+"has_image": null,
+"id": 16
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Appetizers (Farsan)",
+"has_image": null,
+"id": 17
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Extra Item",
+"has_image": null,
+"id": 19
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Gujarati Speciality Meal",
+"has_image": null,
+"id": 18
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Kid's Meals",
+"has_image": null,
+"id": 20
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Main Course",
+"has_image": null,
+"id": 21
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "Sandwich",
+"has_image": null,
+"id": 15
+},
+{
+"company_id": 38,
+"parent_id": null,
+"sequence": 0,
+"child_id": null,
+"name": "To Go Menu",
+"has_image": null,
+"id": 22
+}
+]
+}

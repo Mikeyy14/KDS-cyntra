@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ब्रीज़वॉइस</string>
+    <string name="cashier_login">कैशियर लॉगिन</string>
+    <string name="register_to_earn">रजिस्टर करें और\nबड़े रिवॉर्ड कमाएं!</string>
+    <string name="sign_in_to_earn">साइन इन करें और\nबड़े रिवॉर्ड कमाएं!</string>
+    <string name="cashier_id">कैशियर आईडी</string>
+    <string name="enter_cashier_req">अपना कैशियर आईडी दर्ज करें</string>
+    <string name="password">पासवर्ड</string>
+    <string name="enter_cashier_password">पासवर्ड दर्ज करें</string>
+    <string name="proceed">आगे बढ़ें</string>
+    <string name="please_enter_cashier_id">कृपया कैशियर आईडी दर्ज करें</string>
+    <string name="please_enter_password">कृपया पासवर्ड दर्ज करें</string>
+    <string name="please_enter_customer_name">कृपया ग्राहक का नाम दर्ज करें</string>
+    <string name="please_enter_customer_mobile">कृपया ग्राहक संख्या दर्ज करें</string>
+    <string name="please_enter_valid_number">कृपया वैध संख्या दर्ज करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="empty_cart">खाली कार्ट</string>
+    <string name="skip">छोड़ें</string>
+    <string name="touchtostart">शुरू करने के लिए स्पर्श करें</string>
+    <string name="your_cart">आपकी कार्ट</string>
+    <string name="kcal">439 कैलोरी  /</string>
+    <string name="protein">28.9ग्राम प्रोटीन  /</string>
+    <string name="carbs">83.5ग्राम कार्बोहाइड्रेट  /</string>
+    <string name="fat">83.5ग्राम चर्बी</string>
+    <string name="_1">1</string>
+    <string name="where_would_you_like_to_eat">आप कहाँ खाना पसंद करेंगे?</string>
+    <string name="dine_in">डाइन-इन</string>
+    <string name="take_out">टेकआउट</string>
+    <string name="hello_breez">शुरू करने के लिए  \n कहें <b>"हैलो ब्रीज़"</b> </string>
+    <string name="order_total">कुल ऑर्डर</string>
+    <string name="_12_43">$१२.४३</string>
+    <string name="rodeo_burger">रोडियो बर्गर</string>
+    <string name="no_lettuce_no_tomato">बिना सलाद और टमाटर</string>
+    <string name="all_categories">सभी श्रेणियाँ</string>
+    <string name="category">श्रेणी</string>
+    <string name="payment_failed">भुगतान असफल</string>
+    <string name="sorry_inconvenience">असुविधा के लिए क्षमा करें</string>
+    <string name="your_payment_has_failed_due_to_some_technical_error_please_try_again">कुछ तकनीकी त्रुटि के कारण आपका भुगतान असफल हो गया है। कृपया पुन: प्रयास करें</string>
+    <string name="retry_payment">भुगतान पुनः प्रयास करें</string>
+    <string name="scan_qr_description">स्कैनर के सामने अपनी मोबाइल स्क्रीन रखें\nसाइन इन करने के लिए।</string>
+    <string name="user_not_found_description">हमें आपकी प्रोफ़ाइल नहीं मिली। आप रजिस्टर कर सकते हैं या साइन इन करने को छोड़ सकते हैं।</string>
+    <string name="inconveninece_description">हमारे यहां आपकी कमांड प्रोसेस करने में असमर्थ हैं। आप स्क्रीन को स्पर्श करके मैन्युअल रूप से आगे बढ़ सकते हैं</string>
+    <string name="frequently_bought_together">अक्सर एक साथ खरीदे जाने वाले</string>
+    <string name="chocolate_shake">चॉकलेट शेक</string>
+    <string name="go_to_menu">मेनू पर जाएं</string>
+    <string name="pay_now">भुगतान करें</string>
+    <string name="explore_our_menu">हमारे मेनू की खोज करें!</string>
+    <string name="item_name">आइटम का नाम</string>
+    <string name="start_over">फिर से शुरू करें</string>
+    <string name="item_description">हमारे सर्वश्रेष्ठ बर्गर में कुरकुरा पैटी, ताजगी वाला प्याज़ और हमारी सिग्नेचर सॉस है।</string>
+    <string name="make_it_meal_item">कोक, फ़्राइज़ और चीज़ बर्गर</string>
+
+
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="thank_you_descriptioon">कृपया अपनी रसीद प्राप्त करें और काउंटर से अपना ऑर्डर लें</string>
+    <string name="your_orderno">आपका आर्डर नंबर है</string>
+    <string name="done">हो गया</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="scan_qr_code">QR कोड स्कैन करें</string>
+    <string name="enter_your_phone_number">अपना फ़ोन नंबर दर्ज करें</string>
+    <string name="okay">ठीक है</string>
+    <string name="user_not_found">उपयोगकर्ता नहीं मिला!</string>
+    <string name="subtotal">उप-योग</string>
+    <string name="_2_43">₹2.43</string>
+    <string name="total">कुल</string>
+    <string name="payment_method">भुगतान विधि</string>
+    <string name="cash">नकद</string>
+    <string name="tax">कर</string>
+    <string name="voice_description">"विभाग देखें" या "रोडियो बर्गर जोड़ें" बोलने का प्रयास करें…</string>
+    <string name="please_insert_or_tap_your_credit_card">कृपया अपना क्रेडिट कार्ड डालें या टैप करें</string>
+    <string name="sanjeev_varshney">संजीव वर्ष्णेय</string>
+    <string name="loyalty_points">लॉयल्टी प्वाइंट्स:</string>
+    <string name="_2_000">2,000</string>
+    <string name="recent_orders">हाल के ऑर्डर</string>
+    <string name="add">जोड़ें</string>
+    <string name="checkout">चेकआउट</string>
+    <string name="sauce">सॉस</string>
+    <string name="lettuce">पत्ता</string>
+    <string name="bacon">बेकन</string>
+    <string name="tomato">टमाटर</string>
+    <string name="cheese">चीज़</string>
+    <string name="patty">पैटी</string>
+
+
+    <string name="hello_blank_fragment">हैलो खाली फ़्रैगमेंट</string>
+    <string name="fragment_one">फ़्रैगमेंट एक</string>
+    <string name="fragment_two">फ़्रैगमेंट दो</string>
+    <string name="fragment_three">फ़्रैगमेंट तीन</string>
+    <string name="fragment_four">फ़्रैगमेंट चार</string>
+    <string name="fragment_five">फ़्रैगमेंट पांच</string>
+    <string name="something_went_wrong">कुछ गलत हो गया</string>
+    <string name="view_categories">श्रेणियाँ देखें</string>
+
+
+    <string name="mic_permission_title">माइक परमिशन आवश्यक!</string>
+    <string name="mic_permission_required">इस ऐप को शुरू करने के लिए। कृपया माइक और स्टोरेज की अनुमति दें।</string>
+    <string name="open_setting">सेटिंग खोलें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="item_total">आइटम कुल</string>
+    <string name="_10_49">₹10.49</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="_101">101</string>
+    <string name="size">साइज़</string>
+    <string name="small">छोटा</string>
+    <string name="spice">मसाला</string>
+    <string name="add_to_cart">कार्ट में जोड़ें</string>
+    <string name="medium">मध्यम</string>
+    <string name="large">बड़ा</string>
+    <string name="mild">हल्का</string>
+    <string name="hot">तेज़</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="make_it_a_meal">इसे भोजन बनाएं</string>
+    <string name="select">चुनें</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="ok">ठीक</string>
+    <string name="please_enter_your_mobile_no">कृपया अपना फोन नंबर दर्ज करें</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="please_insert_or_tap_your_card">कृपया अपना कार्ड डालें या टैप करें</string>
+    <string name="Choose_from_the_option_given_below">नीचे दिए गए विकल्प में से चुनें. कहो \'छोड़ें\'</string>
+    <string name="Select_Your_Meal">अपना भोजन चुनें \'कहें: बर्गर जोड़ें\'</string>
+    <string name="Build_your_burger">अपना बर्गर बनाएं \'कहो टमाटर डालें\' </string>
+    <string name="Are_you_ready_to_checkout">क्या आप चेकआउट करने के लिए तैयार हैं? कहो \'मैं भुगतान करना चाहता हूँ\'</string>
+
+
+
+    <string name="store_idd">स्टोर आईडी</string>
+    <string name="device_configuration">डिवाइस कॉन्फ़िगरेशन</string>
+    <string name="pos_Id">पीओएस आईडी</string>
+    <string name="company_id">कंपनी आईडी</string>
+    <string name="reset">रीसेट</string>
+    <string name="select_your_items">अपने आइटम चुनें</string>
+
+    <string name="calling_assistant">कॉलिंग सहायक</string>
+    <string name="wait_for_a_moment_our_staff_is_coming_to_assist_you">एक पल के लिए प्रतीक्षा करें, हमारा कर्मचारी आपकी सहायता करने के लिए आ रहा है</string>
+
+    <string name="cancel_order">ऑर्डर रद्द</string>
+    <string name="profile_not_found">प्रोफ़ाइल नहीं मिला!</string>
+    <string name="no_recent_orders_found">कोई हालिया ऑर्डर नहीं मिला!</string>
+
+    <string name="invoice_receipt">इनवॉइस</string>
+    <string name="sms">एसएमएस</string>
+    <string name="print">छाप</string>
+    <string name="continue_as_guest">अतिथि के रूप में जारी रखें</string>
+    <string name="add_last_meal">आपका आइटम जोड़ा गया है, क्या आप चेकआउट करना चाहेंगे या और आइटम जोड़ना चाहेंगे</string>
+
+    <string name="meal_already_added">Your item is already added, would you like to checkout or add more items</string>
+
+    <string name="remove_item_from_cart">क्या आप वाकई इस आइटम को हटाना चाहते हैं?</string>
+    <string name="increase_quan">वस्तु की मात्रा बढ़ा दी गई है</string>
+    <string name="decrease_quan">वस्तु की मात्रा कम कर दी गई है</string>
+    <string name="clear_cart_description">क्या आप वाकई सभी आइटम साफ़ करना चाहते हैं?</string>
+    <string name="add_addons"> जोड़ा गया है</string>
+    <string name="remove_addons"> हटा दिया गया है</string>
+
+    <string name="clear_cart">कार्ट को खाली करें</string>
+    <string name="no">नहीं</string>
+    <string name="yes">हाँ</string>
+    <string name="remove_item">वस्तु निकालें</string>
+
+    <string name="printer_settings">प्रिंटर सेटिंग्स</string>
+    <string name="_1_kiosk_printer">1.कियोस्क प्रिंटर</string>
+    <string name="_1_kitchen_printer">1.रसोई प्रिंटर</string>
+    <string name="_1_1_1_1">1.1.1.1</string>
+    <string name="test">जाँच</string>
+    <string name="apply">लागू करना</string>
+
+    <string name="payment_settings">भुगतान सेटिंग</string>
+    <string name="voice_ordering">ध्वनि आदेश</string>
+    <string name="end_session">समापन सत्र</string>
+    <string name="settings">समायोजन</string>
+
+    <string name="voice_enabled">आवाज सक्षम कर दी गई है!</string>
+    <string name="voice_disabled">आवाज़ अक्षम कर दी गई है!</string>
+
+    <string name="discover_our_menu">हमारा मेनू खोजें</string>
+    <string name="start_new_order">नया ऑर्डर प्रारंभ करें</string>
+    <string name="scan_qr_for_digital_receipt">डिजिटल रसीद के लिए क्यूआर स्कैन करें</string>
+    <string name="listening">सुना जा रहा है…</string>
+    <string name="didn_t_find_what_you_re_lookig_for">आप जो ढूंढ रहे थे वह नहीं मिला?</string>
+    <string name="search_for_dishes_and_items">व्यंजन खोजें &amp; सामान</string>
+    <string name="search">खोज</string>
+    <string name="help_description_technical_error">ये आइकन दर्शाते हैं कि माइक अक्षम है या कोई तकनीकी त्रुटि है</string>
+
+    <string name="best_sellers">सर्वाधिक बिकाऊ</string>
+    <string name="need_help">मदद की ज़रूरत है?</string>
+    <string name="speak_when_the_icon_turns_red">जब आइकन लाल हो जाए तो बोलें</string>
+    <string name="welcome_back">वापसी पर स्वागत है</string>
+
+    <string name="select_your_category">अपनी श्रेणी का चयन करें</string>
+
+    <string name="amount">मात्रा</string>
+
+    <string name="check_for_update">अपडेट के लिये जांचें</string>
+    <string name="checking_for_update">अपडेट के लिए जाँच की जा रही है</string>
+    <string name="collect_card_payment">कार्ड से भुगतान लीजिए</string>
+    <string name="collect_payment">भुगतान प्राप्त करें</string>
+    <string name="collect_payment_description">फिजिकल स्ट्राइप टेस्ट कार्ड और कार्ड रीडर का उपयोग करके कार्ड से भुगतान प्राप्त करें</string>
+    <string name="common_workflows">सामान्य कार्यप्रवाह</string>
+    <string name="connecting">कनेक्ट हो रहा है…</string>
+    <string name="currency">मुद्रा</string>
+    <string name="current_version">वर्तमान संस्करण</string>
+    <string name="default_amount_int">100</string>
+    <string name="default_amount_string">$1.00</string>
+    <string name="disconnect">डिस्कनेक्ट</string>
+    <string name="discovery">खोज</string>
+    <string name="discover_readers">पाठकों की खोज करें</string>
+    <string name="discovery_method">खोज विधि</string>
+    <string name="empty_reader">खाली पाठक</string>
+    <string name="event_log">घटना प्रवेश करें</string>
+    <string name="install_explanation">संस्करण %1$s उपलब्ध है। अद्यतन पूरा होने तक पाठक अनुत्तरदायी हो जाएगा। अनुमानित अद्यतन समय: %2$s.</string>
+    <string name="install_update">अद्यतन स्थापित करें</string>
+    <string name="installation_in_progress">पाठक अस्थायी रूप से अनुत्तरदायी हो जाएगा. इस पेज को न छोड़ें और अपडेट पूरा होने तक रीडर को दायरे में रखें और चालू रखें।</string>
+    <string name="nearby_readers">आस-पास के पाठक</string>
+    <string name="no_reader">कोई पाठक जुड़ा नहीं</string>
+    <string name="no_update_available">कोई अद्यतन उपलब्ध नहीं है</string>
+    <string name="read_card_for_recurring_payment">आवर्ती भुगतान के लिए कार्ड पढ़ें</string>
+    <string name="reader">पाठक</string>
+    <string name="reader_connection">पाठक कनेक्शन</string>
+    <string name="reader_description">%1$s %2$s</string>
+    <string name="simulated">नकली</string>
+    <string name="simulation_explanation">एसडीके भौतिक हार्डवेयर का उपयोग किए बिना व्यवहार का अनुकरण करने की क्षमता के साथ आता है। इससे पाठक को जोड़ने से लेकर भुगतान लेने तक, आपके एकीकरण का अंत-से-अंत तक त्वरित परीक्षण करना आसान हो जाता है।</string>
+    <string name="terminal">टर्मिनल</string>
+    <string name="testing">परिक्षण</string>
+    <string name="update_complete">अद्यतन पूर्ण</string>
+    <string name="update_explanation">जांचें कि रीडर सॉफ़्टवेयर अद्यतन उपलब्ध है या नहीं।</string>
+    <string name="update_in_progress">अपडेट जारी है</string>
+    <string name="update_progress">अद्यतन प्रगति: %1$.1f%%</string>
+    <string name="update_reader">Update Reader</string>
+    <string name="update_reader_software">रीडर सॉफ़्टवेयर अद्यतन करें</string>
+    <string name="usd">USD</string>
+    <string name="locations">स्थानों</string>
+    <string name="select_location">स्थान चुनें</string>
+    <string name="select_location_last">अंतिम बार उपयोग किया गया स्थान</string>
+    <string name="select_location_list_title">%s स्थान मिले</string>
+    <string name="select_location_list_title_more">%s स्थान मिले</string>
+    <string name="discovery_location_caption">कनेक्शन प्रक्रिया के दौरान ब्लूटूथ रीडर को किसी स्थान पर पंजीकृत किया जाना चाहिए। यदि आप कोई स्थान नहीं चुनते हैं, तो रीडर उसी स्थान पर पंजीकरण करने का प्रयास करेगा जहां वह पिछले कनेक्शन के दौरान पंजीकृत था।</string>
+    <string name="discovery_reader_unknown">अज्ञात पाठक</string>
+    <string name="discovery_reader_location_last">अंतिम स्थान पर पंजीकरण होगा: %s</string>
+    <string name="discovery_reader_location">स्थान पर पंजीकरण होगा: %s</string>
+    <string name="discovery_reader_location_unavailable">❗️ कोई अंतिम स्थान नहीं, कृपया पहले एक का चयन करें</string>
+    <string name="location_required_dialog_title">कृपया एक स्थान चुनें</string>
+    <string name="location_required_dialog_message">इस पाठक के पास पहले से पंजीकृत कोई स्थान नहीं है. कृपया इसे पंजीकृत करने के लिए एक स्थान चुनें।</string>
+    <string name="alert_acknowledge_button">ठीक</string>
+    <string name="create">बनाएं</string>
+    <string name="location_create_title">स्थान बनाएँ</string>
+    <string name="location_create_display_name_title">प्रदर्शित होने वाला नाम</string>
+    <string name="location_create_display_name_hint">HQ</string>
+    <string name="location_create_address_title">पता</string>
+    <string name="location_create_address_line1_label">लाइन 1</string>
+    <string name="location_create_address_line1_hint">510 टाउनसेंड सेंट</string>
+    <string name="location_create_address_line2_label">लाइन 2</string>
+    <string name="location_create_address_city_label">शहर</string>
+    <string name="location_create_address_city_hint">सैन फ्रांसिस्को</string>
+    <string name="location_create_address_state_label">राज्य</string>
+    <string name="location_create_address_state_hint">CA</string>
+    <string name="location_create_address_country_label">देश</string>
+    <string name="location_create_address_country_hint">US</string>
+    <string name="location_create_address_postal_label">डाक कोड</string>
+    <string name="location_create_address_postal_hint">94103</string>
+    <string name="location_create_submit">स्थान बनाएँ</string>
+    <string name="field_required">यह फ़ील्ड आवश्यक है.</string>
+    <string name="skip_tipping">टिप देना छोड़ें</string>
+    <string name="tipping">टिपिंग</string>
+    <string name="skip_tipping_description">किसी भी प्रभाव के लिए ऑन-रीडर टिपिंग को कॉन्फ़िगर किया जाना चाहिए।</string>
+
+    <string name="request_extended_auth">विस्तारित प्रमाणीकरण का अनुरोध करें</string>
+    <string name="request_incremental_auth">वृद्धिशील प्रमाणीकरण का अनुरोध करें</string>
+    <string name="loyality_points_2000">वफादारी अंक: 2000</string>
+    <string name="say_your_number">अपना नंबर बोलें</string>
+
+    <string name="confirm">पुष्टि करें</string>
+    <string name="submit">जमा करें</string>
+    <string name="select_printer">प्रिंटर चुनें</string>
+    <string name="help_description_error">यह आइकन दर्शाता है कि\nमाइक अक्षम है.</string>
+
+    <string name="_0_00">$0.00</string>
+    <string name="save">सुरक्षित रखे</string>
+    <string name="session_in">सत्र में</string>
+    <string name="delivery">वितरण</string>
+    <string name="options">विकल्प</string>
+    <string name="log_file_upload">डिवाइस रिपोर्ट भेजें</string>
+
+    <string name="are_you_sure_you_want_to_end_session">क्या आप वाकई सत्र ख़त्म करना चाहते हैं?</string>
+    <string name="network_issue">नेटवर्क समस्या</string>
+    <string name="check_internet_message">हम शीघ्र ही ऑनलाइन वापस आएँगे।\n आपके धैर्य के लिए धन्यवाद!</string>
+    <string name="error_details">एक अप्रत्याशित त्रुटि उत्पन्न हुई जिसके कारण\nएप्लिकेशन बंद हो गया। कृपया पुन: प्रयास करें।</string>
+    <string name="refresh">ताज़ा करना</string>
+    <string name="app_has_crashed">ऐप क्रैश हो गया है.</string>
+    <string name="www_cyntra_ai">Cyntra.ai द्वारा संचालित</string>
+    <string name="restart">पुनः आरंभ करें</string>
+    <string name="filters">फिल्टर</string>
+    <string name="stickers">स्टिकर</string>
+    <string name="frame">फ़्रेम</string>
+    <string name="text">टेक्स्ट</string>
+    <string name="share">शेयर करें</string>
+    <string name="share_your_picture">एक स्मृति बनाओ</string>
+    <string name="help">मदद</string>
+    <string name="mute">आवाज़ बंद करना</string>
+    <string name="speaking">बोला जा रहा है…</string>
+
+
+    <!--    speech templates-->
+    <string name="orderTypeScreen" translatable="false">Hello, Welcome to Breez, please say your order preference, Try saying ‘Dine In‘ or ‘Take Away‘</string>
+    <string name="signInScreen" translatable="false">Please say your contact number to sign-in, or try saying, ‘Guest‘ to proceed as a guest</string>
+    <string name="welcome" translatable="false">Welcome back %1$s would you like to repeat your last order or proceed to menu?"</string>
+    <string name="alreadyReorderItems" translatable="false">Your items are already added, would you like to checkout or add more items from the menu?</string>
+    <string name="alreadyAddedItems" translatable="false">Your item is already added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorder" translatable="false">Your items are added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorderItem" translatable="false">Your item is added, would you like to checkout or add more items from the menu?</string>
+    <string name="menuScreen" translatable="false">Explore our menu and add the items of your choice, try saying, ‘Select Sides’, ‘Add Chicken Burger’</string>
+    <string name="homeScreen" translatable="false">Select a category or choose from our bestsellers, try saying, ‘Select Burgers’, ‘Add Coke’</string>
+    <string name="addonOnScreenForBurger" translatable="false">How would you like to customize your selected item? Try saying, ‘Add Cheese’</string>
+    <string name="addonOnScreenForOtherItems" translatable="false">How would you like to customize your selected item? Try saying, ‘Increase quantity‘</string>
+    <string name="addonsScreenWithModifierSize" translatable="false">‘Size Medium’</string>
+    <string name="addonsScreenWithModifiersSpice" translatable="false">‘Spice Hot’</string>
+    <string name="selectMoreItem" translatable="false">Would you like to checkout or add more items?</string>
+    <string name = "user_registration_screen" translatable="false">Kindly enter your details</string>
+
+    <plurals name="cart_screen" translatable="false">
+        <item quantity="one">You have %1$d item in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+        <item quantity="other">You have %1$d items in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+    </plurals>
+    <string name="paymentScreen_a" translatable="false">Your total amount is $ %1$s insert or tap your card to complete the order</string>
+    <string name="thankyou_a" translatable="false">Thank you. Your order number is %1$s.Please collect your order from the counter.</string>
+    <string name="userRegistration" translatable="false">Kindly enter your details</string>
+</resources>

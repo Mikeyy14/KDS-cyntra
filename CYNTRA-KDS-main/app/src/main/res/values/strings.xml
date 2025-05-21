@@ -1,0 +1,346 @@
+<resources>
+    <string name="app_name">Breez Voice</string>
+    <string name="cashier_login">Cashier Login</string>
+    <string name="register_to_earn">Register to \nearn big rewards!</string>
+    <string name="sign_in_to_earn">Sign in to \nearn big rewards!</string>
+    <string name="cashier_id">Cashier ID</string>
+    <string name="enter_cashier_req">Enter your Cashier ID</string>
+    <string name="password">Password</string>
+    <string name="enter_cashier_password">Enter Password</string>
+    <string name="please_enter_cashier_id">Please enter Cashier ID</string>
+    <string name="please_enter_password">Please enter Password</string>
+    <string name="please_enter_customer_name">Please enter customer name</string>
+    <string name="please_enter_customer_mobile">Please enter customer number</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="please_enter_valid_number">Please enter valid number</string>
+    <string name="proceed">Proceed</string>
+    <string name="register">Register</string>
+    <string name="skip">Skip</string>
+    <string name="touchtostart">Touch To Start</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="kcal">439 Kcal  /</string>
+    <string name="protein">28.9g Protein  /</string>
+    <string name="carbs">83.5g carbs  /</string>
+    <string name="fat">83.5g Fat</string>
+    <string name="_1">1</string>
+    <string name="hello_breez">Say <b><i>\"Hello Breez\"</i></b> \n to get started</string>
+    <string name="where_would_you_like_to_eat">Where would you like to eat?</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_out">Take Away</string>
+    <string name="order_total">Order Total</string>
+    <string name="_12_43">$00.00</string>
+    <string name="rodeo_burger">Rodeo Burger</string>
+    <string name="no_lettuce_no_tomato">No Lettuce No Tomato</string>
+    <string name="all_categories">All Categories</string>
+    <string name="category">Category</string>
+    <string name="payment_failed">Payment Failed</string>
+    <string name="sorry_inconvenience">Sorry for the inconvenience</string>
+    <string name="your_payment_has_failed_due_to_some_technical_error_please_try_again">Your payment has failed due to some technical error. Please try again</string>
+    <string name="retry_payment">Retry Payment</string>
+    <string name="scan_qr_description">Please place your mobile screen in front\nof the scanner to sign in.</string>
+    <string name="user_not_found_description">We couldn\'t find your profile. You can\nregister or skip the sign in.</string>
+    <string name="inconveninece_description">We couldn\'t process your command. You can\nproceed manually touching the screen</string>
+    <string name="frequently_bought_together">Frequently Bought Together</string>
+    <string name="chocolate_shake">Chocolate Shake</string>
+    <string name="go_to_menu">Go To Menu</string>
+    <string name="clear_cart_description">Are you sure you want to clear all items?</string>
+    <string name="remove_item_from_cart">Are you sure you want to remove this item?</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="explore_our_menu">Explore our menu!</string>
+    <string name="item_name">Item Name</string>
+    <string name="start_over">Start Over</string>
+    <string name="item_description">Our Best-Selling Burger with Crispy Patty, Fresh\nOnion and our Signature Sauce.</string>
+    <string name="make_it_meal_item">Coke, fries and cheese burger</string>
+
+    <string name="thank_you">Thank You!</string>
+    <string name="thank_you_descriptioon">Kindly collect your receipt and take\nyour order from the counter</string>
+    <string name="your_orderno">Your order no. is</string>
+    <string name="done">Done</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="phone_number">Contact number</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="okay">Okay</string>
+    <string name="user_not_found">User not found !</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="_2_43">$2.43</string>
+    <string name="total">Total</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="cash">Cash</string>
+    <string name="tax">Tax</string>
+    <string name="voice_description">Try saying "view categories" or "add rodeo burger"…</string>
+    <string name="please_insert_or_tap_your_credit_card">Please insert or tap\nyour credit card</string>
+    <string name="sanjeev_varshney">Sanjeev Varshney</string>
+    <string name="loyalty_points">Loyalty Points:</string>
+    <string name="_2_000">2,000</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="add">Add</string>
+    <string name="checkout">Checkout</string>
+    <string name="sauce">Sauce</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="bacon">Bacon</string>
+    <string name="tomato">Tomato</string>
+    <string name="cheese">Cheese</string>
+    <string name="patty">Patty</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_one">Fragment One</string>
+    <string name="fragment_two">Fragment Two</string>
+    <string name="fragment_three">Fragment Three</string>
+    <string name="fragment_four">Fragment Four</string>
+    <string name="fragment_five">Fragment Five</string>
+
+
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="view_categories">View Categories</string>
+
+    <string name="mic_permission_title">Permissions Required!</string>
+    <string name="mic_permission_required">In order to begin this app. Please provide mic and storage permissions.</string>
+    <string name="open_setting">Open Setting</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_total">Item Total</string>
+    <string name="_10_49">$10.49</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="_101">101</string>
+    <string name="size">Size</string>
+    <string name="small">Small</string>
+    <string name="spice">Spice</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="mild">Mild</string>
+    <string name="hot">Hot</string>
+    <string name="select_language">Select Language</string>
+    <string name="make_it_a_meal">Make it a meal</string>
+    <string name="select">Select</string>
+    <string name="english">English</string>
+
+    <string name="store_idd">Store ID</string>
+    <string name="device_configuration">Device configuration</string>
+    <string name="pos_Id">POS ID</string>
+    <string name="company_id">Company ID</string>
+    <string name="reset">Reset</string>
+    <string name="select_your_items">Select Your Items</string>
+    <string name="calling_assistant">Call Assistant</string>
+    <string name="wait_for_a_moment_our_staff_is_coming_to_assist_you">Wait for a moment, our staff is coming\nto assist you.</string>
+
+
+    <string name="sms">Sms</string>
+    <string name="print">Print</string>
+    <string name="ok">OK</string>
+    <string name="please_enter_your_mobile_no">Please enter your Phone number</string>
+    <string name="invoice_receipt">Invoice</string>
+    <string name="_9999999999">9999999999</string>
+    <string name="please_insert_or_tap_your_card">Please insert or tap your card</string>
+
+    <!--    Header String-->
+    <string name="Choose_from_the_option_given_below">Choose from the option given below. Say \'SKIP\'</string>
+    <string name="Select_Your_Meal">Select Your Meal \'Say: Add Burger\' </string>
+    <string name="Build_your_burger">Build your burger \'Say Add Tomato\' </string>
+    <string name="Are_you_ready_to_checkout">Are you ready to checkout ? Say \'I want to pay\' </string>
+    <string name="cancel_order">Cancel Order</string>
+    <!--    Header String-->
+
+    /// * Stripe Payment reader strings **///
+
+    <string name="amount">AMOUNT</string>
+
+    <string name="check_for_update">Check for update</string>
+    <string name="checking_for_update">Checking for update</string>
+    <string name="collect_card_payment">Collect card payment</string>
+    <string name="collect_payment">Collect payment</string>
+    <string name="collect_payment_description">Collect a card payment using a physical Stripe test card and a card reader</string>
+    <string name="common_workflows">COMMON WORKFLOWS</string>
+    <string name="connecting">Connecting…</string>
+    <string name="currency">CURRENCY</string>
+    <string name="current_version">CURRENT VERSION</string>
+    <string name="default_amount_int">100</string>
+    <string name="default_amount_string">$1.00</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="discovery">Discovery</string>
+    <string name="discover_readers">Discover Readers</string>
+    <string name="discovery_method">DISCOVERY METHOD</string>
+    <string name="empty_reader">Empty Reader</string>
+    <string name="event_log">EVENT LOG</string>
+    <string name="install_explanation">Version %1$s available. The reader will become unresponsive until the update is complete. Estimated update time: %2$s.</string>
+    <string name="install_update">Install update</string>
+    <string name="installation_in_progress">The reader will temporarily become unresponsive. Do not leave this page, and keep the reader in range and powered on until the update is complete.</string>
+    <string name="nearby_readers">NEARBY READERS</string>
+    <string name="no_reader">No reader connected</string>
+    <string name="no_update_available">No update available</string>
+    <string name="read_card_for_recurring_payment">Read card for recurring payment</string>
+    <string name="reader">Reader</string>
+    <string name="reader_connection">READER CONNECTION</string>
+    <string name="reader_description">%1$s %2$s</string>
+    <string name="simulated">Simulated</string>
+    <string name="simulation_explanation">The SDK comes with the ability to simulate behavior without using physical hardware. This makes it easy to quickly test your integration end-to-end, from connecting a reader to taking payments.</string>
+    <string name="terminal">Terminal</string>
+    <string name="testing">Testing</string>
+    <string name="update_complete">Update complete</string>
+    <string name="update_explanation">Check if a reader software update is available.</string>
+    <string name="update_in_progress">Update in progress</string>
+    <string name="update_progress">Update progress: %1$.1f%%</string>
+    <string name="update_reader">Update Reader</string>
+    <string name="update_reader_software">Update reader software</string>
+    <string name="usd">USD</string>
+    <string name="locations">Locations</string>
+    <string name="select_location">Select Location</string>
+    <string name="select_location_last">Last used location</string>
+    <string name="select_location_list_title">%s Locations Found</string>
+    <string name="select_location_list_title_more">%s+ Locations Found</string>
+    <string name="discovery_location_caption">Bluetooth readers must be registered to a location during the connection process. If you do not select a location, the reader will attempt to register to the same location it was registered to during the previous connection.</string>
+    <string name="discovery_reader_unknown">Unknown Reader</string>
+    <string name="discovery_reader_location_last">Will register to last location: %s</string>
+    <string name="discovery_reader_location">Will register to location: %s</string>
+    <string name="discovery_reader_location_unavailable">❗️ No last location, please select one first</string>
+    <string name="location_required_dialog_title">Please select a location</string>
+    <string name="location_required_dialog_message">This reader does not have a previously registered location. Please select a location to register it to.</string>
+    <string name="alert_acknowledge_button">Okay</string>
+    <string name="create">Create</string>
+    <string name="location_create_title">Create Location</string>
+    <string name="location_create_display_name_title">Display Name</string>
+    <string name="location_create_display_name_hint">HQ</string>
+    <string name="location_create_address_title">Address</string>
+    <string name="location_create_address_line1_label">Line 1</string>
+    <string name="location_create_address_line1_hint">510 Townsend St</string>
+    <string name="location_create_address_line2_label">Line 2</string>
+    <string name="location_create_address_city_label">City</string>
+    <string name="location_create_address_city_hint">San Francisco</string>
+    <string name="location_create_address_state_label">State</string>
+    <string name="location_create_address_state_hint">CA</string>
+    <string name="location_create_address_country_label">Country</string>
+    <string name="location_create_address_country_hint">US</string>
+    <string name="location_create_address_postal_label">Postal Code</string>
+    <string name="location_create_address_postal_hint">94103</string>
+    <string name="location_create_submit">Create Location</string>
+    <string name="field_required">This field is required.</string>
+    <string name="skip_tipping">Skip Tipping</string>
+    <string name="tipping">TIPPING</string>
+    <string name="skip_tipping_description">Must have on-reader tipping configured to have any effect.</string>
+
+    <string name="request_extended_auth">Request extended auth</string>
+    <string name="request_incremental_auth">Request incremental auth</string>
+    <string name="loyality_points_2000">Loyalty Points: 2000</string>
+    <string name="say_your_number">Say Your Number</string>
+    <string name="continue_as_guest">Continue as a guest</string>
+    <string name="profile_not_found">Profile not found!</string>
+    <string name="no_recent_orders_found">No recent orders found!</string>
+    <string name="add_last_meal">Your item is added, would you like to checkout or add more items</string>
+    <string name="meal_already_added">Your item is already added, would you like to checkout or add more items</string>
+    <string name="increase_quan">Quantity has been increased</string>
+    <string name="decrease_quan">Quantity has been decreased</string>
+    <string name="add_addons"> has been added</string>
+    <string name="remove_addons"> has been removed</string>
+    <string name="best_sellers">Best Sellers</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="confirm">Confirm</string>
+    <string name="submit">Submit</string>
+    <string name="select_printer">Select Printer</string>
+    <string name="printer_settings">Printer Settings</string>
+    <string name="_1_kiosk_printer">1. Kiosk Printer</string>
+    <string name="_1_kitchen_printer">1. Kitchen Printer</string>
+    <string name="_1_1_1_1">1.1.1.1</string>
+    <string name="test">Test</string>
+    <string name="apply">Apply</string>
+
+    <string name="payment_settings">Payment Settings</string>
+    <string name="voice_ordering">Voice Ordering</string>
+    <string name="end_session">End Session</string>
+    <string name="settings">Settings</string>
+    <string name="voice_enabled">Voice has been enabled!</string>
+    <string name="voice_disabled">Voice has been disabled!</string>
+    <string name="need_help">Need Help?</string>
+    <string name="speak_when_the_icon_turns_red">Speak when the icon turns red. The last icon\nindicatees that your voice is processing</string>
+    <string name="help_description_technical_error">This icon indicate that there is a technical\nerror or you\'ve reached the input limit</string>
+    <string name="search_for_dishes_and_items">Search for dishes &amp; items</string>
+    <string name="help_description_error">This icon indicate that the\nmic is disabled.</string>
+    <string name="search">Search</string>
+    <string name="didn_t_find_what_you_re_lookig_for">Didn\'t find what you\'re\nlooking for?</string>
+    <string name="listening">listening…</string>
+    <string name="scan_qr_for_digital_receipt">Scan QR for digital receipt</string>
+    <string name="start_new_order">Start New Order</string>
+    <string name="discover_our_menu">Discover Our Menu</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="select_your_category">Select your Category</string>
+    <string name="_0_00">$0.00</string>
+    <string name="save">Save</string>
+    <string name="session_in">Session In</string>
+    <string name="delivery">Delivery</string>
+    <string name="options">Options</string>
+    <string name="log_file_upload">Send Device Report</string>
+
+    <string name="are_you_sure_you_want_to_end_session">Are you sure you want to end session?</string>
+    <string name="network_issue">Network Issue</string>
+    <string name="check_internet_message">We\'ll be back online shortly.\n Thank you for your patience!</string>
+    <string name="system_idle_description">The Kiosk was idle for 30 seconds.\nDo you want to start over</string>
+
+    <string name="error_details">An unexpected error occurred forcing\nthe application to stop. Please try again.</string>
+    <string name="refresh">Refresh</string>
+    <string name="app_has_crashed">App has Crashed.</string>
+    <string name="www_cyntra_ai">Powered by Cyntra.ai</string>
+    <string name="restart">Restart</string>
+    <string name="filters">Filters</string>
+    <string name="stickers">Stickers</string>
+    <string name="frame">Frame</string>
+    <string name="text">Text</string>
+    <string name="share">Share</string>
+    <string name="share_your_picture">Make a memory</string>
+    <string name="help">Help</string>
+    <string name="mute">Mute</string>
+    <string name="speaking">speaking…</string>
+    <string name="customize_your_pizza">Customize Your Pizza</string>
+    <string name="no_response">No Response</string>
+    <string name="continue_">Continue</string>
+    <string name="system_idle">System Idle</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="qr_scan">QR Scan</string>
+    <string name="scan_qr_code_nfor_payment">Scan QR code\nfor payment</string>
+
+    <string-array name="sp_port">
+        <item>\u0020\u0020\u0020\u0020\u0020Port\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020\u0020USB\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020\u0020TCP\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020\u0020ALL\u0020\u0020\u0020\u0020</item>
+    </string-array>
+
+    <string-array name="sp_printer">
+        <item>\u0020\u0020\u0020\u0020Printer\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020PosIn\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020Epson\u0020\u0020\u0020\u0020</item>
+        <item>\u0020\u0020\u0020\u0020AnyPos\u0020\u0020\u0020\u0020</item>
+    </string-array>
+
+    <!--    speech templates-->
+    <string name="orderTypeScreen" translatable="false">Hello, Welcome to Breez, please say your order preference, Try saying ‘Dine In‘ or ‘Take Away‘</string>
+    <string name="signInScreen" translatable="false">Please say your contact number to sign-in, or try saying, ‘Guest‘ to proceed as a guest</string>
+    <string name="welcome" translatable="false">Welcome back %1$s would you like to repeat your last order or proceed to menu?"</string>
+    <string name="alreadyReorderItems" translatable="false">Your items are already added, would you like to checkout or add more items from the menu?</string>
+    <string name="alreadyAddedItems" translatable="false">Your item is already added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorder" translatable="false">Your items are added, would you like to checkout or add more items from the menu?</string>
+    <string name="memberScreenReorderItem" translatable="false">Your item is added, would you like to checkout or add more items from the menu?</string>
+    <string name="menuScreen" translatable="false">Explore our menu and add the items of your choice, try saying, ‘Select Sides’, ‘Add Chicken Burger’</string>
+    <string name="homeScreen" translatable="false">Select a category or choose from our bestsellers, try saying, ‘Select Burgers’, ‘Add Coke’</string>
+    <string name="addonOnScreenForBurger" translatable="false">How would you like to customize your selected item? Try saying, ‘Add Cheese’</string>
+    <string name="addonOnScreenForOtherItems" translatable="false">How would you like to customize your selected item? Try saying, ‘Increase quantity‘</string>
+    <string name="addonsScreenWithModifierSize" translatable="false">‘Size Medium’</string>
+    <string name="addonsScreenWithModifiersSpice" translatable="false">‘Spice Hot’</string>
+    <string name="selectMoreItem" translatable="false">Would you like to checkout or add more items?</string>
+    <string name = "user_registration_screen" translatable="false">Kindly enter your details</string>
+    <string name="addonOnScreenForPizzaItems" translatable="false">Customize your pizza? Try saying, ‘select medium‘</string>
+
+    <plurals name="cart_screen" translatable="false">
+        <item quantity="one">You have %1$d item in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+        <item quantity="other">You have %1$d items in your cart, review your order and say ‘I want to pay now‘ to pay.</item>
+    </plurals>
+    <string name="paymentScreen_a" translatable="false">Your total amount is $ %1$s insert or tap your card to complete the order</string>
+    <string name="thankyou_a" translatable="false">Thank you. Your order number is %1$s.Please collect your order from the counter.</string>
+    <string name="userRegistration" translatable="false">Kindly enter your details</string>
+
+
+</resources>

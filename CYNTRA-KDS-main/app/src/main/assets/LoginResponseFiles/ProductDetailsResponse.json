@@ -1,0 +1,4554 @@
+{
+  "count": 45,
+  "results": [
+    {
+      "id": 116,
+      "name": "5pc Smoky Red Chicken",
+      "company_id": 2,
+      "categ_id": 40,
+      "currency_id": 2,
+      "list_price": 3.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 25,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 73,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 74,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 75,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 116,
+          "display_name": "5pc Smoky Red Chicken",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 3.19 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 9,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQ Sauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "Chilli Relish Sauce",
+          "list_price": 2.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 118,
+      "name": "6 pc Hot & Crispy Chicken",
+      "company_id": 2,
+      "categ_id": 40,
+      "currency_id": 2,
+      "list_price": 3.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 26,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 76,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 77,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 78,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 118,
+          "display_name": "6 pc Hot & Crispy Chicken",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 3.19 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 9,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQ Sauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "Chilli Relish Sauce",
+          "list_price": 2.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 143,
+      "name": "All Chicken Box",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 4.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 44,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 129,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 130,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 131,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 132,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 133,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 134,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 143,
+          "display_name": "All Chicken Box",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 4.25 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 210,
+      "name": "All in One Box",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 210,
+          "display_name": "All in One Box",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 107,
+      "name": "BBQ Sauce",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.2,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 107,
+          "display_name": "BBQ Sauce",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 0.21 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 108,
+      "name": "Bacon",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 108,
+          "display_name": "Bacon",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(=$1.06Incl.Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 119,
+      "name": "Big12",
+      "company_id": 2,
+      "categ_id": 40,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 27,
+          "attribute_id": [
+            {
+              "i": 8,
+              "name": "SpiceLevel",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 79,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Mild",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 80,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 81,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Hot",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 119,
+          "display_name": "Big12",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(=$5.31Incl.Taxes)",
+      "qty_available": 0.0,
+      "virtual_availabl": 0.0,
+      "available_in_po": true,
+      "pos_categ_id": 9,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQSauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "ChilliRelishSauce",
+          "list_price": 2.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 123,
+      "name": "Big8",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 3.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 28,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "SpiceLevel",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 82,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Mild",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 83,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 84,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "SpiceLevel: Hot",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 123,
+          "display_name": "Big8",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(=$3.19Incl.Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 9,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQSauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "ChilliRelishSauce",
+          "list_price": 2.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 109,
+      "name": "Cheese",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.2,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 109,
+          "display_name": "Cheese",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 0.21 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 198,
+      "name": "Cheesy Fries",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 48,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 141,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 142,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 143,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 144,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 145,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 146,
+              "name": "Large",
+              "price_extra": 1.5,
+              "display_name": "Size: Large",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 198,
+          "display_name": "Cheesy Fries",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 144,
+      "name": "Chicken Assorted Box",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 41,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 117,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 118,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 119,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 144,
+          "display_name": "Chicken Assorted Box",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 2.0,
+      "virtual_available": 2.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 112,
+      "name": "Chicken Burger",
+      "company_id": 2,
+      "categ_id": 38,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 23,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 67,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 68,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 69,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 70,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 71,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 72,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 112,
+          "display_name": "Chicken Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": 1,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 204,
+      "name": "Chicken Patty Burger",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 4.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 204,
+          "display_name": "Chicken Patty Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 4.25 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 124,
+      "name": "Chilli Relish Sauce",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 124,
+          "display_name": "Chilli Relish Sauce",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 130,
+      "name": "Classic Chicken Bucket",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": true,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 32,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 96,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 95,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 94,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 130,
+          "display_name": "Classic Chicken Bucket",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 129,
+      "name": "Classic Combo",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 6.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 31,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 91,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 92,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 93,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 129,
+          "display_name": "Classic Combo",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 6.38 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 207,
+      "name": "Coke",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 61,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 180,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 181,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 182,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 207,
+          "display_name": "Coke",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 131,
+      "name": "Colonel's Choice",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 33,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 99,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 98,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 97,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 131,
+          "display_name": "Colonel's Choice",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 206,
+      "name": "Diet Coke",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 60,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 177,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 178,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 179,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 206,
+          "display_name": "Diet Coke",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 121,
+      "name": "Discount",
+      "company_id": 2,
+      "categ_id": 34,
+      "currency_id": 2,
+      "list_price": 0.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 121,
+          "display_name": "Discount",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 1,
+          "name": "Tax 6.625%",
+          "amount_type": "percent",
+          "amount": 6.625,
+          "real_amount": 6.625,
+          "description": "6.625%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 128,
+      "name": "Family Feast",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 6.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 29,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 85,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 86,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 87,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 88,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 89,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 90,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 128,
+          "display_name": "Family Feast",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 6.38 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQ Sauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "Chilli Relish Sauce",
+          "list_price": 2.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 132,
+      "name": "Fried Feast",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 4.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 35,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 102,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 103,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 104,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 105,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 120,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 106,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 132,
+          "display_name": "Fried Feast",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 4.25 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [
+        {
+          "id": 77,
+          "name": "Gravy",
+          "list_price": 1.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "name": "Grilled Chicken",
+          "list_price": 1.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 197,
+      "name": "Fries",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 46,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 135,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 136,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 137,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 138,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 139,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 140,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 197,
+          "display_name": "Fries",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 115,
+      "name": "Lettuce",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 115,
+          "display_name": "Lettuce",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 122,
+      "name": "Mayo",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 122,
+          "display_name": "Mayo",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 142,
+      "name": "Mirinda",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 56,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 165,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 166,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 167,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 142,
+          "display_name": "Mirinda",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 200,
+      "name": "Moroccan Fries",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 52,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 153,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 154,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 155,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 156,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 157,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 158,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 200,
+          "display_name": "Moroccan Fries",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 127,
+      "name": "Mountain Dew",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 57,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 168,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 169,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 170,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 127,
+          "display_name": "Mountain Dew",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 196,
+      "name": "Onion",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 196,
+          "display_name": "Onion",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 125,
+      "name": "Pepsi",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 58,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 171,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 172,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 173,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 125,
+          "display_name": "Pepsi",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 126,
+      "name": "Pepsi Black",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 59,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 174,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 175,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 176,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 126,
+          "display_name": "Pepsi Black",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 12,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 209,
+      "name": "Peri Peri Box",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 209,
+          "display_name": "Peri Peri Box",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 110,
+      "name": "Peri Peri Burger",
+      "company_id": 2,
+      "categ_id": 34,
+      "currency_id": 2,
+      "list_price": 4.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 19,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 55,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 56,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 57,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 58,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 59,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 60,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 110,
+          "display_name": "Peri Peri Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 4.25 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 205,
+      "name": "Potato Wedges",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 1.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 205,
+          "display_name": "Potato Wedges",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 1.06 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 140,
+      "name": "Rice Bowl Chicken Bucket",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 3.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 39,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 112,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 113,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 114,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 115,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 121,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 116,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 140,
+          "display_name": "Rice Bowl Chicken Bucket",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 3.19 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [
+        {
+          "id": 77,
+          "name": "Gravy",
+          "list_price": 1.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "name": "Raita",
+          "list_price": 1.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 111,
+      "name": "Smoky Chicken Burger",
+      "company_id": 2,
+      "categ_id": 38,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 21,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 61,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 62,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 8,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 63,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 64,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 65,
+              "name": "Medium",
+              "price_extra": 2.0,
+              "display_name": "Size: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 66,
+              "name": "Large",
+              "price_extra": 4.0,
+              "display_name": "Size: Large",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 111,
+          "display_name": "Smoky Chicken Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": 1,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 139,
+      "name": "Smoky Grilled Combo",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 5.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 37,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 107,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 108,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 109,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 110,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 122,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 111,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 7,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 139,
+          "display_name": "Smoky Grilled Combo",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 5.31 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 89,
+      "name": "Test product",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 10.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 89,
+          "display_name": "Test product",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 195,
+      "name": "Tomato",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 0.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 195,
+          "display_name": "Tomato",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": " ",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 208,
+      "name": "Veg Assorted Box",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 4.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 208,
+          "display_name": "Veg Assorted Box",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 4.25 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 14,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 182,
+      "name": "Veg Burger",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 182,
+          "display_name": "Veg Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 203,
+      "name": "Veg Patty Burger",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [],
+      "product_variant_ids": [
+        {
+          "id": 203,
+          "display_name": "Veg Patty Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 8,
+      "optional_product_ids": [
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Lettuce",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Mayo",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "name": "Onion",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Tomato",
+          "list_price": 0.0,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 199,
+      "name": "Veg Wrap",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 50,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 147,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 148,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 149,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 150,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 151,
+              "name": "Medium",
+              "price_extra": 0.5,
+              "display_name": "Size: Medium",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 152,
+              "name": "Large",
+              "price_extra": 1.0,
+              "display_name": "Size: Large",
+              "color": 2,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 199,
+          "display_name": "Veg Wrap",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 105,
+      "name": "Veg Zinger Burger",
+      "company_id": 2,
+      "categ_id": 38,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 17,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 49,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 11,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 50,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 51,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 52,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 1,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 53,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 9,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 54,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 105,
+          "display_name": "Veg Zinger Burger",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": 1,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": null,
+      "optional_product_ids": [
+        {
+          "id": 51,
+          "name": "BBQ Sauce",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Cheese",
+          "list_price": 0.2,
+          "uom_id": 1,
+          "taxes_id": [
+            {
+              "id": 3,
+              "name": "Tax 6.25%",
+              "amount_type": "percent",
+              "amount": 6.25,
+              "real_amount": 6.25,
+              "description": "6.25%",
+              "type_tax_use": "sale"
+            }
+          ]
+        }
+      ],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    },
+    {
+      "id": 201,
+      "name": "Veggie Fingers",
+      "company_id": 2,
+      "categ_id": 1,
+      "currency_id": 2,
+      "list_price": 2.0,
+      "sale_ok": true,
+      "purchase_ok": null,
+      "uom_id": 1,
+      "packaging_ids": null,
+      "attribute_line_ids": [
+        {
+          "id": 54,
+          "attribute_id": [
+            {
+              "id": 8,
+              "name": "Spice Level",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 159,
+              "name": "Mild",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Mild",
+              "color": 6,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 160,
+              "name": "Medium",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 161,
+              "name": "Hot",
+              "price_extra": 0.0,
+              "display_name": "Spice Level: Hot",
+              "color": 10,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "attribute_id": [
+            {
+              "id": 10,
+              "name": "Size",
+              "display_type": "radio",
+              "visibility": "hidden"
+            }
+          ],
+          "product_template_value_ids": [
+            {
+              "id": 162,
+              "name": "Small",
+              "price_extra": 0.0,
+              "display_name": "Size: Small",
+              "color": 3,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 163,
+              "name": "Medium",
+              "price_extra": 1.0,
+              "display_name": "Size: Medium",
+              "color": 5,
+              "html_color": null,
+              "exclude_for": null
+            },
+            {
+              "id": 164,
+              "name": "Large",
+              "price_extra": 2.0,
+              "display_name": "Size: Large",
+              "color": 4,
+              "html_color": null,
+              "exclude_for": null
+            }
+          ]
+        }
+      ],
+      "product_variant_ids": [
+        {
+          "id": 201,
+          "display_name": "Veggie Fingers",
+          "product_template_attribute_value_ids": []
+        }
+      ],
+      "barcode": null,
+      "product_tag_ids": null,
+      "taxes_id": [
+        {
+          "id": 3,
+          "name": "Tax 6.25%",
+          "amount_type": "percent",
+          "amount": 6.25,
+          "real_amount": 6.25,
+          "description": "6.25%",
+          "type_tax_use": "sale"
+        }
+      ],
+      "tax_string": "(= $ 2.13 Incl. Taxes)",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "available_in_pos": true,
+      "pos_categ_id": 13,
+      "optional_product_ids": [],
+      "alternative_product_ids": null,
+      "website_ribbon_id": null,
+      "allow_out_of_stock_order": true,
+      "out_of_stock_message": null
+    }
+  ]
+}

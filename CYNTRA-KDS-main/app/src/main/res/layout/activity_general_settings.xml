@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.cyntra.kds.ui.settings.GeneralSettingViewModel" />
+
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBlack"
+        >
+
+        <ImageView
+            android:id="@+id/iv_back_btn"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:padding="@dimen/_7sdp"
+            android:src="@drawable/icon_back">
+
+        </ImageView>
+
+    <TextView
+        android:id="@+id/tv_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/settings"
+        style="@style/textXLargeBold"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_centerHorizontal="true"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_printer_settings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:padding="@dimen/_10sdp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding"
+            android:layout_below="@+id/tv_setting">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textLargeRegular"
+                android:text="@string/printer_settings"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_gravity="center"
+                />
+
+
+            <ImageView
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerInParent="true"
+                android:src="@drawable/icon_right_arrow" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_payment_settings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:padding="@dimen/_10sdp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding"
+            android:layout_below="@+id/rl_printer_settings">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textLargeRegular"
+                android:text="@string/payment_settings"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_gravity="center"
+                />
+
+
+            <ImageView
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="@dimen/_10sdp"
+                android:src="@drawable/icon_right_arrow"
+                android:layout_centerInParent="true"
+                android:layout_alignParentEnd="true"/>
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_voice_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:padding="@dimen/_10sdp"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding"
+            android:layout_below="@+id/rl_payment_settings">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textLargeRegular"
+                android:text="@string/voice_ordering"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:layout_gravity="center"
+                />
+
+
+          <Switch
+              android:id="@+id/switch_voice_enabled"
+              android:layout_width="wrap_content"
+              android:layout_height="@dimen/_10sdp"
+              android:layout_alignParentEnd="true"
+              android:track="@drawable/switch_bckground"
+              android:checked="true"
+              android:thumbTint="@color/red_bright"
+              />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_print"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:padding="@dimen/_10sdp"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding"
+            android:layout_below="@+id/rl_voice_order">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textLargeRegular"
+                android:text="@string/print"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:layout_gravity="center"
+                />
+
+
+          <Switch
+              android:id="@+id/switch_print_enabled"
+              android:layout_width="wrap_content"
+              android:layout_height="@dimen/_10sdp"
+              android:layout_alignParentEnd="true"
+              android:track="@drawable/switch_bckground"
+              android:checked="true"
+              android:thumbTint="@color/red_bright"
+              />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_upload_log"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:padding="@dimen/_10sdp"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding"
+            android:layout_below="@+id/rl_print">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textLargeRegular"
+                android:text="@string/log_file_upload"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_1sdp"
+                android:layout_gravity="center"
+                />
+
+
+            <ImageView
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:src="@drawable/upload_log"
+                android:layout_alignParentEnd="true"
+                />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_below="@+id/rl_upload_log"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:id="@+id/app_version_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/textLargeRegular"
+            android:text="version name"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="@dimen/_15sdp"
+            android:layout_marginStart="@dimen/_5sdp"
+            />
+
+
+        <Button
+            android:id="@+id/btn_end_session"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:gravity="center"
+            style="@style/whiteBgmRedTextContainedButton"
+            android:layout_marginStart="@dimen/_45sdp"
+            android:layout_marginEnd="@dimen/_45sdp"
+            android:stateListAnimator="@null"
+            android:text="@string/end_session"
+            android:textAllCaps="false"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/red_bright"
+            />
+
+    </RelativeLayout>
+
+</layout>

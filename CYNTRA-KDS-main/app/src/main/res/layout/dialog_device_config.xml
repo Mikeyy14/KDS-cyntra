@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/cash_drawer_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_23sdp"
+        android:background="@color/colorGray"
+        >
+
+        <ImageView
+            android:id="@+id/iv_btn_back_configPopup"
+            android:layout_width="@dimen/dp8"
+            android:layout_height="@dimen/dp8"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/device_configuration"
+           style="@style/textLargeRegular"
+            android:textSize="@dimen/txt_small"
+            android:layout_marginStart="@dimen/_12sdp"
+            android:layout_gravity="center"
+            />
+
+
+    </LinearLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:orientation="horizontal"
+        android:padding="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_13sdp"
+        app:endIconDrawable="@drawable/icon_close"
+        app:endIconMode="clear_text">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/input_companyId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
+            android:hint="@string/company_id"
+            android:imeOptions="actionNext"
+            android:inputType="number"
+            android:maxLength="5"
+            android:cursorVisible="false"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@color/colorWhite"
+            android:textColorLink="@color/green"
+            android:textSize="@dimen/txt_medium" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:orientation="horizontal"
+        android:padding="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        app:endIconDrawable="@drawable/icon_close"
+        app:endIconMode="clear_text">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/input_storeId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
+            android:hint="@string/store_idd"
+            android:imeOptions="actionNext"
+            android:inputType="number"
+            android:maxLength="5"
+            android:cursorVisible="false"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@color/colorWhite"
+            android:textColorLink="@color/green"
+            android:textSize="@dimen/txt_medium" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:orientation="horizontal"
+        android:padding="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        app:endIconDrawable="@drawable/icon_close"
+        app:endIconMode="clear_text">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/input_posId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
+            android:hint="@string/pos_Id"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:maxLength="5"
+            android:cursorVisible="false"
+            android:singleLine="true"
+            android:text=""
+            android:textColor="@color/colorWhite"
+            android:textColorLink="@color/green"
+            android:textSize="@dimen/txt_medium" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <LinearLayout
+        android:layout_width="@dimen/_140sdp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:layout_gravity="center"
+        >
+
+        <Button
+            android:id="@+id/btn_reset_config"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="@dimen/login_button_ht"
+            style="@style/whiteBgmRedTextContainedButton"
+            android:text="@string/reset"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:textAllCaps="false"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:textColor="@color/app_color"
+            android:textSize="@dimen/txt_small" />
+
+        <Button
+            android:id="@+id/btn_save_config"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="@dimen/login_button_ht"
+            style="@style/redBgmWhiteTextContainedButton"
+            android:padding="@dimen/_2sdp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:text="Save"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/txt_small" />
+
+    </LinearLayout>
+
+</LinearLayout>

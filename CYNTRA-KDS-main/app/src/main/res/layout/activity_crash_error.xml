@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.cyntra.kds.ui.crashhandler.CrashErrorViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@drawable/screen_background"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@drawable/background_light_grey"
+            android:layout_marginHorizontal="@dimen/_30sdp">
+
+
+            <ImageView
+                android:id="@+id/error_image"
+                android:layout_width="@dimen/_70sdp"
+                android:layout_height="@dimen/_70sdp"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:src="@drawable/error_img" />
+
+            <TextView
+                android:id="@+id/tv_something_wrong"
+                style="@style/textXLargeBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:text="@string/something_went_wrong" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/error_details"
+                android:textAlignment="center"
+                style="@style/textMediumRegular" />
+
+
+
+        <Button
+            android:id="@+id/btn_crashErorr_oky"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:gravity="center"
+            style="@style/redBgmWhiteTextContainedButton"
+            android:layout_marginRight="@dimen/_40sdp"
+            android:layout_marginLeft="@dimen/_40sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_20sdp"
+            android:stateListAnimator="@null"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:text="@string/restart"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</layout>

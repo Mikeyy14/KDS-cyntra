@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.cyntra.kds.ui.settings.printersetting.PrinterSettingViewModel" />
+
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBlack"
+        >
+
+        <ImageView
+            android:id="@+id/iv_btn_back_printer_setting"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:padding="@dimen/_7sdp"
+            android:src="@drawable/icon_back">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/printer_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/printer_settings"
+            style="@style/textXLargeBold"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:layout_centerHorizontal="true"/>
+
+
+        <LinearLayout
+            android:id="@+id/ll_kiosk_printer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/printer_setting"
+            android:layout_marginStart="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_20sdp"
+            android:orientation="vertical"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                >
+
+            <TextView
+                style="@style/textMediumBold"
+                android:layout_width="0dp"
+                android:layout_weight="2.5"
+                android:layout_height="wrap_content"
+                android:text="@string/_1_kitchen_printer" />
+
+            <CheckBox
+                android:id="@+id/cb_kiosk_printer_invoice_print"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_15sdp"
+                android:layout_weight="0.4"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:buttonTint="@color/colorWhite"
+                android:gravity="end|center" />
+
+            </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            >
+
+
+            <Spinner
+                android:id="@+id/spinner_kiosk_printer_type"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginEnd="@dimen/_5sdp"
+                android:background="@drawable/spinner_bckground"
+                android:dropDownWidth="match_parent"
+                style="@style/textMediumBold"
+                android:dropDownVerticalOffset="@dimen/_30sdp"
+                android:entries="@array/sp_port" />
+
+            <Spinner
+                android:id="@+id/spinner_kiosk_printer_connection_type"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:background="@drawable/spinner_bckground"
+                android:dropDownWidth="match_parent"
+                style="@style/textLargeRegular"
+                android:dropDownVerticalOffset="@dimen/_25sdp"
+                android:entries="@array/sp_printer" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:orientation="horizontal"
+            android:padding="@dimen/_5sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:gravity="center"
+            android:background="@drawable/background_light_grey">
+
+
+            <EditText
+                android:id="@+id/et_kiosk_printer_input"
+                android:layout_width="0dp"
+                android:layout_weight="1.5"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:layout_marginStart="@dimen/_7sdp"
+                android:layout_marginEnd="@dimen/_4sdp"
+                android:hint="@string/_1_1_1_1"
+                android:inputType="numberDecimal|text"
+                android:maxLines="1"
+                android:padding="@dimen/_5sdp"
+                style="@style/textMediumRegular"
+                />
+
+
+            <ImageView
+                android:id="@+id/iv_cross_kiosk_ip"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:visibility="invisible"
+                android:src="@drawable/icon_close" />
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@+id/tv_body"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginRight="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                >
+
+                <Button
+                    android:id="@+id/btn_kiosk_printer_test"
+                    style="@style/whiteBgmRedTextContainedButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_25sdp"
+                    android:gravity="center"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:stateListAnimator="@null"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:textColor="@color/black"
+                    android:text="@string/test"
+                    android:textSize="@dimen/txt_medium"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/btn_kiosk_printer_apply"
+                    style="@style/redBgmWhiteTextContainedButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_25sdp"
+                    android:gravity="center"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:stateListAnimator="@null"
+                    android:text="@string/apply"
+                    android:textSize="@dimen/txt_medium"
+                    android:textAllCaps="false" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_kiosk_printer"
+            android:layout_marginStart="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_20sdp"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:background="@drawable/background_dark_grey_round_corner_with_padding">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                >
+
+                <TextView
+                    style="@style/textMediumBold"
+                    android:layout_width="0dp"
+                    android:layout_weight="2.5"
+                    android:layout_height="wrap_content"
+                    android:text="@string/_1_kitchen_printer" />
+
+                <CheckBox
+                    android:id="@+id/cb_kitchen_printer"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_15sdp"
+                    android:layout_weight="0.4"
+                    android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                    android:checked="true"
+                    android:buttonTint="@color/colorWhite" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/_7sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginRight="@dimen/_15sdp"
+                >
+
+
+                <Spinner
+                    android:id="@+id/spinner_kitchen_printer_type"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:background="@drawable/spinner_bckground"
+                    android:dropDownWidth="match_parent"
+                    android:dropDownVerticalOffset="@dimen/_25sdp"
+                    android:entries="@array/sp_port" />
+
+                <Spinner
+                    android:id="@+id/spinner_kitchen_printer_connection_type"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_35sdp"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:background="@drawable/spinner_bckground"
+                    android:dropDownWidth="match_parent"
+                    android:dropDownVerticalOffset="@dimen/_25sdp"
+                    android:entries="@array/sp_printer" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_35sdp"
+                android:orientation="horizontal"
+                android:padding="@dimen/_5sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginRight="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_7sdp"
+                android:gravity="center"
+                android:background="@drawable/background_light_grey">
+
+
+                <EditText
+                    android:id="@+id/et_kitchen_printer_input"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.5"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:layout_marginStart="@dimen/_7sdp"
+                    android:layout_marginEnd="@dimen/_7sdp"
+                    android:hint="@string/_1_1_1_1"
+                    android:inputType="numberDecimal|text"
+                    android:maxLines="1"
+                    android:padding="@dimen/_5sdp"
+                    style="@style/textMediumRegular"
+                    />
+
+                <ImageView
+                    android:id="@+id/iv_cross_kitchen_ip"
+                    android:layout_width="0dp"
+                    android:layout_weight="0.2"
+                    android:layout_height="wrap_content"
+                    android:visibility="invisible"
+                    android:src="@drawable/icon_close"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@+id/tv_body"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_marginRight="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_15sdp"
+                >
+
+                <Button
+                    android:id="@+id/btn_kitchen_printer_test"
+                    style="@style/whiteBgmRedTextContainedButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_25sdp"
+                    android:gravity="center"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:stateListAnimator="@null"
+                    android:textColor="@color/black"
+                    android:text="@string/test"
+                    android:textSize="@dimen/txt_medium"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/btn_kitchen_printer_apply"
+                    style="@style/redBgmWhiteTextContainedButton"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="@dimen/_25sdp"
+                    android:gravity="center"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:stateListAnimator="@null"
+                    android:text="@string/apply"
+                    android:textSize="@dimen/txt_medium"
+                    android:textAllCaps="false" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</layout>

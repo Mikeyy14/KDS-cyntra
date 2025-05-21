@@ -1,0 +1,72 @@
+{
+  "id": 8,
+  "name": "NYC Shop",
+  "display_name": "NYC Shop (5100)",
+  "company_id": 2,
+  "currency_id": 2,
+  "pos_session_state": "closing_control",
+  "warehouse_id": [
+    {
+      "id": 2,
+      "name": "NYC Shop",
+      "partner_id": [
+        {
+          "id": 46,
+          "street": "560 39th St",
+          "street2": null,
+          "city": "New York",
+          "zip": "10018",
+          "state_id": [
+            {
+              "id": 35,
+              "name": "New York"
+            }
+          ],
+          "country_id": [
+            {
+              "id": 233,
+              "name": "United States"
+            }
+          ],
+          "phone": "777-777-7777"
+        }
+      ]
+    }
+  ],
+  "iface_start_categ_id": null,
+  "pricelist_id": 37,
+  "group_pos_manager_id": 52,
+  "tip_product_id": null,
+  "amount_authorized_diff": 0.0,
+  "cash_rounding": null,
+  "has_active_session": true,
+  "manual_discount": true,
+  "discount_product_id": 121,
+  "floor_ids": null,
+  "is_table_management": null,
+  "set_tip_after_payment": null,
+  "cash_control": true,
+  "current_session_id": 340,
+  "current_session_state": "closing_control",
+  "discount_pc": 10.0,
+  "iface_customer_facing_display": null,
+  "last_session_closing_cash": 0.0,
+  "module_pos_restaurant": true,
+  "module_pos_discount": true,
+  "number_of_opened_session": 1,
+  "payment_method_ids": [
+    7,
+    8
+  ],
+  "pos_session_duration": "42",
+  "pos_session_username": "5100",
+  "only_round_cash_method": null,
+  "current_user_id": 43,
+  "pos_order_type_ids": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "sequence_id": 117
+}

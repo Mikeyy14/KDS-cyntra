@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "session_id": null,
+  "request": {
+    "user_utterence": "go to menu",
+    "metadata": "nluchannel"
+  },
+  "response": {
+    "intent": "VIEW_MENU",
+    "entity": {},
+    "confidence": 0.8682143688201904
+  }
+}

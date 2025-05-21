@@ -1,0 +1,120 @@
+[versions]
+mockito = "4.0.0"
+mockitokotlin= "2.2.0"
+androidxjunit = "1.1.5"
+archcore = "2.2.0"
+espresso = "3.5.1"
+appcompat = "1.6.1"
+googleandroidgms = "18.2.0"
+androidGradlePlugin = "8.0.0"
+androidarchlifecycle = "1.1.1"
+androidxlifecycle = "2.6.1"
+androidxactivity = "1.7.2"
+androidxcore= "1.10.1"
+androidmaterial = "1.9.0"
+androidxconstraintlayout = "2.1.4"
+retrofit2 = "2.9.0"
+okhttpLoggingInterceptor="5.0.0-alpha.4"
+roomVersion = '2.5.1'
+sdpandroid = "1.0.6"
+zxingcore = "3.4.1"
+zxingandroidembedded="4.3.0"
+picasso = "2.8"
+imageSlider="1.4.0"
+escposthermalprinter= "3.3.0"
+apachecommonstext="1.9"
+stripeterminal = "2.19.0"
+carouselrecyclerview = "1.2.4"
+jetbrainskotlinx = "1.6.4"
+okhttp3 = "4.10.0"
+glide= "4.15.1"
+hilt = "2.44"
+androidxrunner = "1.5.2"
+androidcoretest = "1.5.0"
+robolectric = "4.4"
+junit = "4.13.2"
+kotlinKSPVersion = "1.8.10-1.0.9"
+kotlin = "1.8.0"
+
+[libraries]
+mockito-core = { group ="org.mockito", name="mockito-core" , version.ref="mockito"}
+mockito-inline = { group = "org.mockito", name="mockito-inline", version.ref = "mockito"}
+mockito-kotlin = {group = "com.nhaarman.mockitokotlin2", name="mockito-kotlin", version.ref = "mockitokotlin"}
+androidx-core-testing = { group = "androidx.arch.core", name="core-testing", version.ref = "archcore"}
+androidx-junit-ktx = { group = "androidx.test.ext", name="junit-ktx", version.ref = "androidxjunit"}
+androidx-junit = { group = "androidx.test.ext", name="junit", version.ref = "androidxjunit"}
+androidx-espresso-core = { group = "androidx.test.espresso", name="espresso-core", version.ref = "espresso"}
+androidx-espresso-intents = {group= "androidx.test.espresso", name="espresso-intents" , version.ref = "espresso"}
+androidx-espresso-contrib = {group= "androidx.test.espresso", name="espresso-contrib" , version.ref = "espresso"}
+androidx-core-ktx = {group= "androidx.core", name="core-ktx", version.ref = "androidxcore" }
+
+androidx-appcompat = {group = "androidx.appcompat", name="appcompat", version.ref = "appcompat"}
+google-android-gms = {group = "com.google.android.gms", name="play-services-basement", version.ref = "googleandroidgms" }
+android-arch-lifecycle-extensions = {group = "android.arch.lifecycle", name="extensions", version.ref = "androidarchlifecycle"}
+android-arch-lifecycle-compiler = {group = "android.arch.lifecycle", name="compiler", version.ref = "androidarchlifecycle"}
+androidx-lifecycle-runtime = {group = "androidx.lifecycle", name="lifecycle-runtime-ktx", version.ref = "androidxlifecycle"}
+androidx-lifecycle-livedata = {group = "androidx.lifecycle", name="lifecycle-livedata-ktx", version.ref = "androidxlifecycle"}
+androidx-activity = {group = "androidx.activity", name="activity-ktx", version.ref = "androidxactivity"}
+android-material = { group = "com.google.android.material", name="material", version.ref = "androidmaterial" }
+androidx-constraintlayout = {group = "androidx.constraintlayout", name="constraintlayout", version.ref = "androidxconstraintlayout"}
+retrofit2 = {group = "com.squareup.retrofit2", name="retrofit", version.ref = "retrofit2"}
+retrofit2-converter-gson = {group = "com.squareup.retrofit2", name="converter-gson", version.ref = "retrofit2"}
+logging-interceptor = {group = "com.squareup.okhttp3", name="logging-interceptor", version.ref="okhttpLoggingInterceptor"}
+
+#hilt
+android-hilt = {group = "com.google.dagger", name="hilt-android", version.ref = "hilt" }
+android-hilt-compiler = {group = "com.google.dagger", name="hilt-compiler", version.ref = "hilt" }
+
+#room
+androidx-room-runtime = {group = "androidx.room", name="room-runtime", version.ref = "roomVersion"}
+androidx-room-compiler = {group = "androidx.room", name="room-compiler", version.ref = "roomVersion"}
+androidx-room-ktx = {group = "androidx.room", name="room-ktx", version.ref = "roomVersion"}
+
+#ssp sdp
+intuit-sdp = {group = "com.intuit.sdp", name="sdp-android", version.ref = "sdpandroid"}
+intuit-ssp = {group = "com.intuit.ssp", name="ssp-android", version.ref = "sdpandroid"}
+
+#qr code
+google-zxing-core = {group = "com.google.zxing", name="core" ,version.ref = "zxingcore"}
+journey-apps = {group = "com.journeyapps", name="zxing-android-embedded", version.ref ="zxingandroidembedded" }
+
+#picasso
+picasso-image = {group = "com.squareup.picasso", name="picasso", version.ref = "picasso"}
+android-image-slider = {group = "com.github.smarteist", name="Android-Image-Slider", version.ref = "imageSlider"}
+
+
+#printer
+thermal-printer = {group = "com.github.DantSu", name="ESCPOS-ThermalPrinter-Android", version.ref = "escposthermalprinter" }
+
+#String comparision
+apache-commonstext ={ group = "org.apache.commons", name="commons-text", version.ref = "apachecommonstext"}
+
+#glide
+bumptech-glide = {group = "com.github.bumptech.glide", name="glide", version.ref = "glide"}
+
+#stripe payment
+stripe-stripeterminal = {group = "com.stripe", name="stripeterminal", version.ref = "stripeterminal"}
+
+sparrow007-carouselrecyclerview = {group = "com.github.sparrow007", name="carouselrecyclerview", version.ref = "carouselrecyclerview"}
+
+#test
+kotlinx-coroutines-test = {group = "org.jetbrains.kotlinx", name="kotlinx-coroutines-test", version.ref = "jetbrainskotlinx"}
+okhttp3-mockwebserver = {group = "com.squareup.okhttp3", name="mockwebserver", version.ref = "okhttp3"}
+
+hilt-android-testing = {group = "com.google.dagger", name="hilt-android-testing", version.ref ="hilt"}
+
+androidx-test-core = {group = "androidx.test", name="core", version.ref = "androidcoretest"}
+
+robo-electric = {group = "org.robolectric", name="robolectric", version.ref = "robolectric"}
+
+android-core-testing = {group = "android.arch.core", name="core-testing", version.ref = "androidarchlifecycle"}
+
+androidx-junitt = {group = "junit", name="junit", version.ref = "junit"}
+
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
+android-library = { id = "com.android.library", version.ref = "androidGradlePlugin" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
+kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }

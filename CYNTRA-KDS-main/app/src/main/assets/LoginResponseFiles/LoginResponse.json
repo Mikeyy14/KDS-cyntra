@@ -1,0 +1,28 @@
+{
+  "uid": 43,
+  "user_context": {
+    "lang": "en_US",
+    "tz": "America/Chicago",
+    "uid": 43
+  },
+  "name": "5100",
+  "company_id": 2,
+  "company_ids": [
+    2
+  ],
+  "warehouse_ids": [
+    2
+  ],
+  "is_pos_admin": true,
+  "is_frontend_admin": false,
+  "pos_config_ids": [
+    8,
+    9
+  ],
+  "server_tz": "UTC",
+  "tz_offset": "-0500",
+  "access_token": "c8d007f29bbe6d70bcb4f4c6377000c2af259a21",
+  "expires_in": 600,
+  "refresh_token": "7deec6dbf5c5c5413604f2aa5199cad5801bef38",
+  "refresh_expires_in": 7200
+}
